@@ -1,5 +1,5 @@
 # HubSpot Marketing Analytics Dashboard
-![Dashboard Preview](dashboard/HubSpot_Dashboard_Screenshot.jpg)
+![Dashboard Preview](dashboard/Hubspot Marketing Analytics Dashboard Screenshot.jpg)
 
 ## Project Overview  
 This project is a Power BI dashboard I built using marketing data from **HubSpot CRM** stored in **Snowflake**.  
