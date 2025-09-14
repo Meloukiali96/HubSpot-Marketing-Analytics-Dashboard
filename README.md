@@ -14,7 +14,7 @@ Power BI – Visualization and dashboard design
 
 Dashboard Features
 
-✅ KPIs: Conversion Rate (15%), Total Deals (~2K), Total Revenue (~$1M)
+✅ KPIs: Conversion Rate (15%), Total Deals (2K), Total Revenue ($1M)
 
 ✅ Sales Funnel: Leads → Deals → Wins (conversion tracking)
 
