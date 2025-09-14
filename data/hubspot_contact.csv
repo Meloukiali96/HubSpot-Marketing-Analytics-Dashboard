@@ -1,0 +1,2241 @@
+contact_id,age,education,marital_status,income,kids,dt_customer,country,lifecycle_stage
+1826,55,Graduation,Divorced,84835.00,0,2014-06-16,Spain,Customer
+1,64,Graduation,Single,57091.00,0,2014-06-15,Canada,Lead
+10476,67,Graduation,Married,67267.00,1,2014-05-13,USA,Lead
+1386,58,Graduation,Together,32474.00,2,2014-05-11,Australia,Lead
+5371,36,Graduation,Single,21474.00,1,2014-04-08,Spain,Lead
+7348,67,PhD,Single,71691.00,0,2014-03-17,Spain,Customer
+4073,71,2n Cycle,Married,63564.00,0,2014-01-29,Germany,Customer
+1991,58,Graduation,Together,44931.00,1,2014-01-18,Spain,Lead
+4047,71,PhD,Married,65324.00,1,2014-01-11,USA,Lead
+9477,71,PhD,Married,65324.00,1,2014-01-11,India,Lead
+2079,78,2n Cycle,Married,81044.00,0,2013-12-27,USA,Customer
+5642,46,Master,Together,62499.00,1,2013-12-09,Spain,Lead
+10530,66,PhD,Widow,67786.00,0,2013-12-07,India,Customer
+2964,44,Graduation,Married,26872.00,0,2013-10-16,Canada,Lead
+10311,56,Graduation,Married,4428.00,1,2013-10-05,Spain,Lead
+837,48,Graduation,Married,54809.00,2,2013-09-11,Spain,Lead
+10521,48,Graduation,Married,54809.00,2,2013-09-11,Spain,Lead
+10175,67,PhD,Divorced,32173.00,1,2013-08-01,Spain,Lead
+1473,65,2n Cycle,Single,47823.00,1,2013-07-23,Canada,Lead
+2795,67,Master,Single,30523.00,3,2013-07-01,Canada,Lead
+2285,71,Master,Together,36634.00,1,2013-05-28,Saudi Arabia,Lead
+115,59,Master,Single,43456.00,1,2013-03-26,India,Lead
+10470,46,Master,Married,40662.00,1,2013-03-15,Germany,Lead
+4065,49,PhD,Married,49544.00,1,2013-02-12,Spain,Lead
+10968,56,Graduation,Single,57731.00,1,2012-11-23,India,Lead
+5985,60,Master,Single,33168.00,1,2012-10-13,Spain,Lead
+5430,69,Graduation,Together,54450.00,2,2012-09-14,Spain,Lead
+8432,69,Graduation,Together,54450.00,2,2012-09-14,Spain,Lead
+453,69,PhD,Widow,35340.00,2,2014-06-29,Spain,Lead
+9687,50,Graduation,Single,73170.00,0,2014-05-31,Canada,Lead
+8890,54,PhD,Divorced,65808.00,2,2014-05-30,Spain,Lead
+9264,39,Graduation,Married,79529.00,0,2014-04-27,Canada,Customer
+5824,53,PhD,Together,34578.00,3,2014-04-11,Australia,Lead
+5794,51,PhD,Married,46374.00,1,2014-03-17,India,Lead
+3068,35,Graduation,Married,18351.00,0,2013-10-29,Spain,Lead
+7962,38,PhD,Single,95169.00,0,2013-10-09,Spain,Customer
+2681,41,2n Cycle,Married,65370.00,0,2013-08-01,Spain,Lead
+10141,65,Master,Divorced,39228.00,0,2013-05-10,Saudi Arabia,Lead
+3725,64,PhD,Single,84865.00,0,2013-05-09,Spain,Customer
+3767,57,Graduation,Married,61314.00,1,2013-04-25,Spain,Customer
+5585,53,Graduation,Single,21359.00,1,2013-04-20,Canada,Lead
+7030,70,PhD,Married,66465.00,1,2013-03-30,Spain,Customer
+1524,42,2n Cycle,Single,81698.00,0,2013-03-01,Spain,Customer
+3657,39,Graduation,Single,39146.00,1,2013-02-14,Spain,Lead
+5740,55,2n Cycle,Divorced,25959.00,2,2013-02-14,Spain,Lead
+9595,64,Graduation,Together,64260.00,0,2013-01-11,Spain,Customer
+3158,52,Graduation,Married,32300.00,1,2013-01-03,Spain,Lead
+5114,60,Master,Married,74806.00,1,2012-12-19,Australia,Lead
+340,55,Graduation,Divorced,72967.00,1,2012-12-15,Germany,Lead
+8805,65,Graduation,Single,48904.00,1,2012-12-02,USA,Lead
+1241,41,2n Cycle,Married,14796.00,1,2012-09-17,Germany,Lead
+1402,71,Master,Married,66991.00,0,2012-09-11,Germany,Customer
+7264,47,2n Cycle,Single,52195.00,3,2014-05-12,Saudi Arabia,Lead
+1619,69,Graduation,Married,90369.00,0,2014-04-28,Spain,Customer
+6398,51,Basic,Married,18393.00,1,2014-03-29,Spain,Lead
+1857,73,Graduation,Single,47139.00,2,2014-03-06,Spain,Lead
+4877,52,Master,Married,38576.00,1,2014-03-04,India,Lead
+3066,50,PhD,Together,61905.00,1,2014-02-04,Saudi Arabia,Lead
+10286,63,Graduation,Married,83715.00,0,2014-02-03,Saudi Arabia,Lead
+1992,61,Graduation,Married,60597.00,1,2014-01-01,Spain,Lead
+4246,43,Master,Single,6560.00,0,2013-12-12,Spain,Lead
+10623,64,Master,Together,48330.00,1,2013-11-15,Spain,Lead
+4867,57,PhD,Single,38236.00,2,2013-09-20,Spain,Lead
+3112,48,Master,Married,22701.00,1,2013-09-05,Spain,Lead
+4865,51,Master,Divorced,53367.00,2,2013-08-31,Australia,Lead
+6287,39,Graduation,Together,34728.00,1,2013-07-30,Spain,Lead
+4405,69,Master,Married,63915.00,2,2013-07-30,Australia,Lead
+5332,65,2n Cycle,Married,82504.00,0,2013-07-27,India,Customer
+1519,53,PhD,Single,38578.00,2,2013-06-22,Spain,Lead
+9080,53,PhD,Single,38578.00,2,2013-06-22,Spain,Lead
+1772,50,PhD,Married,79174.00,0,2013-01-11,Canada,Customer
+5341,63,2n Cycle,Divorced,81975.00,1,2013-01-05,Saudi Arabia,Customer
+5510,48,Master,Married,43263.00,1,2012-11-21,Spain,Lead
+3887,55,Graduation,Single,27242.00,1,2012-11-11,India,Lead
+7022,54,Graduation,Married,76445.00,1,2012-09-28,Saudi Arabia,Customer
+9999,60,Graduation,Together,75276.00,0,2012-09-27,Spain,Customer
+10352,62,Graduation,Widow,34213.00,2,2012-09-07,Saudi Arabia,Lead
+7919,49,PhD,Together,72335.00,0,2012-08-13,Spain,Customer
+4114,61,Master,Married,79143.00,0,2012-08-11,Australia,Customer
+7990,78,Graduation,Married,27469.00,0,2012-08-02,Canada,Lead
+9888,56,Graduation,Together,68695.00,0,2014-06-25,Spain,Customer
+4399,56,Graduation,Together,68695.00,0,2014-06-25,Canada,Customer
+4452,68,Graduation,Single,50388.00,1,2014-05-28,Germany,Lead
+4785,55,PhD,Together,77622.00,2,2014-04-14,Saudi Arabia,Lead
+8461,63,Graduation,Divorced,46102.00,3,2014-03-10,Spain,Lead
+3878,45,2n Cycle,Single,31859.00,1,2014-02-27,Spain,Lead
+9612,38,2n Cycle,Single,23830.00,0,2014-02-07,Spain,Lead
+4098,52,Graduation,Married,24639.00,2,2014-01-28,Australia,Lead
+158,80,PhD,Together,71604.00,0,2013-11-17,Spain,Customer
+3896,41,Graduation,Married,27255.00,1,2013-11-07,Spain,Lead
+9970,48,Graduation,Together,55375.00,1,2013-10-17,Canada,Lead
+4002,65,PhD,Married,77037.00,1,2013-10-13,Spain,Customer
+10914,55,Graduation,Single,24163.00,2,2013-10-12,Spain,Lead
+7279,56,PhD,Together,69476.00,0,2013-09-30,USA,Customer
+10582,46,Graduation,Married,72063.00,1,2013-07-03,Germany,Lead
+4470,63,Master,Married,58646.00,1,2013-06-10,Spain,Lead
+6183,63,Master,Married,58646.00,1,2013-06-10,Germany,Lead
+6379,76,Master,Widow,47570.00,2,2013-05-29,USA,Lead
+8601,45,Graduation,Married,80011.00,1,2013-04-29,Australia,Customer
+4827,69,PhD,Single,54998.00,1,2013-03-10,Spain,Lead
+6715,77,PhD,Single,60200.00,1,2013-01-02,Spain,Lead
+10676,43,Graduation,Married,63211.00,0,2012-11-02,Spain,Customer
+1041,52,PhD,Single,48432.00,1,2012-10-18,Saudi Arabia,Lead
+492,52,PhD,YOLO,48432.00,1,2012-10-18,Canada,Lead
+11133,52,PhD,YOLO,48432.00,1,2012-10-18,India,Lead
+4491,76,Master,Married,62845.00,2,2012-10-01,Spain,Customer
+873,76,Master,Married,62845.00,2,2012-10-01,Spain,Customer
+1631,60,PhD,Together,65220.00,0,2012-09-03,Germany,Customer
+8278,35,PhD,Married,74214.00,0,2012-08-26,Spain,Customer
+6815,45,2n Cycle,Married,96547.00,0,2014-05-23,Spain,Lead
+254,70,Graduation,Together,53863.00,1,2014-05-17,Spain,Lead
+1349,55,Graduation,Married,50447.00,2,2014-04-21,India,Lead
+2534,72,Graduation,Married,37716.00,1,2014-04-21,Australia,Lead
+2130,43,Graduation,Together,45203.00,2,2014-03-23,Saudi Arabia,Lead
+2296,50,Master,Married,37368.00,1,2013-12-16,Spain,Lead
+3799,70,Graduation,Married,67225.00,1,2013-11-26,USA,Lead
+11084,49,Master,Together,65104.00,1,2013-11-14,Canada,Customer
+5172,49,Master,Together,65104.00,1,2013-11-14,Spain,Customer
+9504,76,Master,Married,81698.00,0,2013-11-06,Spain,Customer
+850,57,Graduation,Single,70566.00,1,2013-10-06,Spain,Lead
+4477,67,Graduation,Together,69096.00,1,2013-09-27,Germany,Lead
+1945,63,Graduation,Married,71434.00,1,2013-09-18,Spain,Customer
+7685,47,Graduation,Married,33039.00,1,2013-09-09,Spain,Lead
+6310,47,Graduation,Married,33039.00,1,2013-09-09,Canada,Lead
+10832,67,Graduation,Together,46610.00,0,2013-07-18,Spain,Lead
+3025,67,Graduation,Single,49967.00,1,2013-07-08,Canada,Lead
+2404,49,Graduation,Married,53359.00,2,2013-05-27,USA,Lead
+8581,54,Master,Married,49505.00,2,2013-03-05,Spain,Lead
+8755,79,Master,Married,68657.00,0,2013-02-20,Australia,Customer
+10177,71,Graduation,Divorced,72071.00,1,2013-02-14,Spain,Customer
+2429,71,Graduation,Divorced,72071.00,1,2013-02-14,Canada,Customer
+8920,58,Master,Single,59235.00,1,2013-01-12,India,Customer
+8430,68,Graduation,Together,21994.00,1,2012-12-24,Australia,Lead
+8619,68,Graduation,Together,21994.00,1,2012-12-24,Spain,Lead
+8996,68,PhD,Married,,3,2012-11-19,Germany,Lead
+7233,53,Graduation,Married,69209.00,0,2012-09-17,Canada,Customer
+6678,36,Graduation,Together,31928.00,1,2014-03-28,India,Lead
+830,38,PhD,Single,74004.00,0,2014-02-24,India,Customer
+6365,38,2n Cycle,Married,30390.00,0,2013-09-02,India,Lead
+6770,40,Graduation,Married,21355.00,1,2013-08-20,USA,Lead
+2261,56,Graduation,Married,26304.00,1,2013-06-23,Germany,Lead
+1031,36,2n Cycle,Married,85710.00,0,2013-05-05,India,Customer
+10089,51,Graduation,Divorced,102692.00,0,2013-04-05,Saudi Arabia,Customer
+9256,54,Graduation,Single,58350.00,1,2013-01-04,Spain,Customer
+10641,47,Graduation,Single,7500.00,2,2012-12-27,Spain,Lead
+624,41,Master,Single,18890.00,0,2012-11-10,Saudi Arabia,Lead
+4211,39,Basic,Married,20425.00,1,2012-10-29,Canada,Lead
+1407,39,Basic,Married,20425.00,1,2012-10-29,Germany,Lead
+10356,68,PhD,Divorced,41437.00,2,2012-09-22,Spain,Lead
+9323,76,Master,Together,49912.00,1,2012-09-07,Mexico,Lead
+1146,76,Master,Together,49912.00,1,2012-09-07,Australia,Lead
+6343,66,Graduation,Married,79823.00,1,2014-03-31,Australia,Customer
+8545,71,Graduation,Divorced,85683.00,0,2014-03-21,Spain,Customer
+8275,60,PhD,Divorced,47025.00,2,2014-02-09,Spain,Lead
+10673,49,PhD,Married,68397.00,1,2013-11-17,Saudi Arabia,Customer
+8799,41,PhD,Married,38175.00,1,2013-09-23,Spain,Lead
+67,53,Master,Single,46423.00,2,2013-09-18,Spain,Lead
+9923,53,Master,Single,46423.00,2,2013-09-18,Spain,Lead
+2814,49,Master,Together,30560.00,1,2013-06-27,Saudi Arabia,Lead
+2711,49,Master,Together,30560.00,1,2013-06-27,Canada,Lead
+4320,46,Graduation,Single,60152.00,1,2013-03-28,Spain,Lead
+10451,60,Graduation,Together,29672.00,2,2013-03-12,Saudi Arabia,Lead
+4198,60,Graduation,Together,29672.00,2,2013-03-12,Spain,Lead
+10814,78,Graduation,Together,70321.00,0,2013-01-16,Spain,Customer
+944,63,Graduation,Married,56181.00,1,2013-01-08,Spain,Lead
+8151,35,Basic,Married,24279.00,0,2012-12-29,Spain,Lead
+6184,56,PhD,Married,68462.00,0,2012-12-12,Spain,Customer
+3498,49,PhD,Married,55424.00,1,2012-11-25,Spain,Lead
+2870,52,Graduation,Married,49094.00,1,2012-09-21,Spain,Lead
+7342,64,2n Cycle,Widow,59184.00,1,2012-09-09,Spain,Customer
+1911,38,Graduation,Together,67430.00,0,2012-09-05,Germany,Customer
+10862,65,Master,Married,30522.00,1,2012-08-17,Spain,Lead
+2546,48,2n Cycle,Single,31878.00,1,2014-06-22,Spain,Lead
+3005,33,Graduation,Single,83528.00,0,2014-05-01,Spain,Customer
+8318,46,Graduation,Together,90300.00,0,2014-01-03,Spain,Customer
+2930,47,Master,Single,68092.00,0,2013-12-16,Saudi Arabia,Customer
+8216,53,Master,Married,53761.00,2,2013-10-11,Australia,Lead
+1212,52,Graduation,Married,52845.00,1,2013-08-13,Spain,Lead
+2541,49,Graduation,Married,24027.00,1,2013-06-09,Spain,Lead
+10659,46,2n Cycle,Together,7500.00,1,2013-05-07,India,Lead
+10905,70,Graduation,Together,42586.00,2,2012-10-29,Spain,Lead
+8910,70,Graduation,Together,42586.00,2,2012-10-29,Spain,Lead
+7349,52,Basic,Together,9722.00,1,2012-10-02,Spain,Lead
+7872,50,PhD,Married,86836.00,0,2012-09-12,Spain,Lead
+4290,53,Graduation,Married,30467.00,1,2014-03-19,Canada,Lead
+7408,73,PhD,Married,54549.00,1,2014-03-03,Saudi Arabia,Lead
+9986,43,Graduation,Together,19444.00,1,2014-02-22,Saudi Arabia,Lead
+8235,69,Master,Together,69245.00,1,2014-01-24,Saudi Arabia,Lead
+10949,62,PhD,Divorced,72968.00,0,2013-12-16,Spain,Customer
+7284,72,Graduation,Married,48686.00,3,2013-12-04,Spain,Lead
+9529,35,Graduation,Married,73687.00,0,2013-11-28,Saudi Arabia,Customer
+9930,81,PhD,Single,82716.00,0,2013-11-05,Canada,Customer
+10270,44,2n Cycle,Married,35523.00,1,2013-10-03,Germany,Lead
+760,50,PhD,Divorced,60554.00,1,2013-08-09,Saudi Arabia,Lead
+5519,69,Graduation,Together,64090.00,1,2013-08-07,Saudi Arabia,Lead
+232,60,Graduation,Single,61559.00,1,2013-07-17,Spain,Lead
+3009,63,PhD,Widow,71670.00,0,2013-07-09,Spain,Customer
+6518,74,PhD,Widow,67680.00,1,2013-06-11,Australia,Lead
+10669,44,Graduation,Married,54386.00,1,2013-05-17,Spain,Lead
+5682,72,PhD,Single,64108.00,1,2013-03-23,Australia,Customer
+1570,74,PhD,Together,69702.00,1,2013-02-19,Spain,Customer
+1497,73,Graduation,Single,47958.00,1,2013-01-19,Saudi Arabia,Lead
+9723,65,Graduation,Married,67716.00,1,2013-01-10,Canada,Customer
+7261,54,Graduation,Together,34600.00,2,2013-01-01,Spain,Lead
+2452,54,Graduation,Together,34600.00,2,2013-01-01,Spain,Lead
+5621,56,Graduation,Married,48752.00,2,2012-12-12,Spain,Lead
+10995,37,2n Cycle,Married,15716.00,1,2012-11-12,Saudi Arabia,Lead
+7373,73,PhD,Divorced,46610.00,2,2012-10-29,Australia,Lead
+5331,48,Graduation,Married,74985.00,0,2012-09-11,Germany,Customer
+263,80,PhD,Single,45576.00,0,2014-05-28,Spain,Lead
+4619,80,PhD,Single,113734.00,0,2014-05-28,Spain,Lead
+940,38,Graduation,Single,57100.00,1,2014-05-18,Saudi Arabia,Lead
+10084,53,Graduation,Married,24434.00,2,2014-05-18,India,Lead
+6019,54,PhD,Married,37126.00,1,2014-03-30,Spain,Lead
+1463,67,Graduation,Single,45160.00,2,2014-03-29,Australia,Lead
+6424,48,Graduation,Together,33178.00,1,2014-01-30,Spain,Lead
+8233,75,Master,Widow,64866.00,1,2014-01-26,Canada,Lead
+1515,50,Master,Together,34176.00,1,2014-01-22,Canada,Lead
+10855,57,Master,Single,50014.00,1,2014-01-22,Spain,Lead
+10909,77,Graduation,Married,92344.00,0,2014-01-15,Australia,Customer
+3376,55,Master,Divorced,55282.00,1,2013-12-13,Spain,Lead
+10232,62,PhD,Divorced,48799.00,1,2013-11-05,Spain,Lead
+5547,43,PhD,Married,84169.00,0,2013-08-07,Spain,Customer
+8362,43,PhD,Married,84169.00,0,2013-08-07,Saudi Arabia,Customer
+3524,54,Master,Single,39763.00,1,2013-08-04,Spain,Lead
+10095,50,PhD,Divorced,74165.00,0,2013-05-01,Canada,Customer
+8897,60,Graduation,Single,42720.00,2,2013-04-24,Germany,Lead
+466,81,Graduation,Married,65275.00,0,2013-04-03,Spain,Lead
+11025,64,Graduation,Married,36443.00,2,2013-02-03,Spain,Lead
+2387,73,Master,Together,43776.00,2,2013-02-03,Saudi Arabia,Lead
+1618,60,Graduation,Together,56046.00,0,2013-01-02,Germany,Lead
+25,67,Graduation,Married,65148.00,1,2012-11-16,Canada,Customer
+3277,70,Graduation,Divorced,49431.00,1,2012-08-03,Spain,Lead
+8566,64,PhD,Together,32583.00,2,2014-06-15,Spain,Lead
+2634,46,Master,Single,16653.00,1,2014-04-18,Spain,Lead
+8036,54,2n Cycle,Together,26850.00,2,2014-04-18,Spain,Lead
+8159,57,Graduation,Married,51287.00,2,2014-04-01,Spain,Lead
+7628,52,2n Cycle,Married,43050.00,1,2014-03-18,Spain,Lead
+9597,56,Graduation,Married,73448.00,0,2014-02-10,Canada,Lead
+1384,33,Basic,Married,17256.00,1,2013-11-23,USA,Lead
+10150,64,Graduation,Single,86429.00,0,2013-11-21,Saudi Arabia,Customer
+3885,42,PhD,Married,33569.00,1,2013-10-16,Spain,Lead
+11003,45,2n Cycle,Together,25130.00,1,2013-10-02,Canada,Lead
+8026,73,Graduation,Married,62998.00,1,2013-09-30,Canada,Lead
+577,49,2n Cycle,Together,26907.00,2,2013-08-20,Spain,Lead
+8702,49,2n Cycle,Together,26907.00,2,2013-08-20,Australia,Lead
+5429,77,PhD,Married,45579.00,1,2013-08-20,Spain,Lead
+977,68,Graduation,Together,47320.00,1,2013-08-01,Canada,Lead
+2793,49,PhD,Divorced,70179.00,1,2013-07-21,Saudi Arabia,Customer
+1071,49,PhD,Divorced,70179.00,1,2013-07-21,USA,Customer
+5074,39,Master,Married,28072.00,1,2013-07-08,Canada,Lead
+2632,71,Graduation,Married,50501.00,2,2013-06-18,India,Lead
+6404,56,Graduation,Together,58917.00,3,2013-03-24,Saudi Arabia,Lead
+10240,76,Graduation,Together,69372.00,0,2013-02-19,Canada,Customer
+2521,54,Master,Married,35178.00,1,2013-01-10,Spain,Lead
+4301,54,Master,Married,35178.00,1,2013-01-10,Australia,Lead
+7381,57,Graduation,Divorced,75693.00,0,2012-12-06,Spain,Customer
+2407,43,Graduation,Married,69109.00,0,2012-11-09,USA,Customer
+9064,43,Graduation,Married,69109.00,0,2012-11-09,Spain,Customer
+5067,31,Graduation,Together,80134.00,0,2014-02-14,Spain,Customer
+10281,55,Graduation,Divorced,64713.00,1,2014-02-07,Australia,Lead
+11191,39,Graduation,Divorced,41411.00,0,2013-12-07,Spain,Lead
+1994,42,Graduation,Married,,1,2013-11-15,USA,Lead
+2552,70,PhD,Single,55521.00,3,2013-10-22,Spain,Lead
+6720,57,Master,Together,43795.00,1,2013-10-16,Spain,Lead
+4557,55,Graduation,Together,22070.00,1,2013-10-04,Saudi Arabia,Lead
+1183,76,Master,Married,36408.00,2,2013-09-21,Germany,Lead
+4186,75,Graduation,Together,34026.00,2,2013-08-05,Canada,Lead
+1419,75,Graduation,Together,34026.00,2,2013-08-05,Spain,Lead
+967,49,Graduation,Married,46049.00,2,2013-07-21,Spain,Lead
+1048,53,Master,Married,35641.00,1,2013-07-14,Saudi Arabia,Lead
+9262,41,2n Cycle,Together,32414.00,0,2013-07-04,Saudi Arabia,Lead
+3427,70,PhD,Married,59821.00,1,2013-04-12,Saudi Arabia,Lead
+5892,45,Graduation,Married,34968.00,1,2013-04-10,Saudi Arabia,Lead
+8911,58,PhD,Married,56320.00,1,2013-04-08,Spain,Lead
+6606,56,Master,Married,70091.00,1,2013-03-31,Spain,Customer
+2677,69,Graduation,Together,46097.00,1,2013-03-31,Saudi Arabia,Lead
+252,62,PhD,Divorced,41003.00,0,2013-03-17,Saudi Arabia,Lead
+9860,66,Graduation,Together,44911.00,1,2013-03-15,Spain,Lead
+1388,50,Graduation,Single,33249.00,1,2013-02-20,Australia,Lead
+979,50,Graduation,Single,33249.00,1,2013-02-20,Spain,Lead
+7494,75,PhD,Divorced,42873.00,2,2013-01-21,Canada,Lead
+10490,56,PhD,Married,51039.00,2,2012-12-10,Australia,Lead
+3403,67,PhD,Together,78952.00,1,2012-09-24,Spain,Customer
+2715,59,Master,Divorced,29435.00,2,2012-08-06,Canada,Lead
+4828,71,Graduation,Divorced,79865.00,1,2014-06-18,Saudi Arabia,Lead
+92,37,Graduation,Alone,34176.00,1,2014-05-12,Canada,Lead
+3312,37,Graduation,Single,34176.00,1,2014-05-12,India,Lead
+11176,55,PhD,Together,65968.00,1,2014-05-12,Canada,Lead
+1446,69,Master,Single,86424.00,0,2014-04-05,Saudi Arabia,Customer
+9699,59,Graduation,Divorced,67272.00,1,2013-12-21,Spain,Lead
+9790,68,Graduation,Single,78499.00,0,2013-11-23,Canada,Customer
+2324,53,Graduation,Together,77044.00,1,2013-10-27,Spain,Customer
+5080,32,Graduation,Single,70515.00,0,2013-10-21,Mexico,Customer
+4992,50,Master,Together,17459.00,1,2013-09-19,Spain,Lead
+7849,55,PhD,Married,80336.00,0,2013-09-09,Spain,Customer
+4808,69,Graduation,Married,15759.00,0,2013-09-05,Spain,Lead
+10401,49,2n Cycle,Together,26326.00,0,2013-09-04,Germany,Lead
+7793,49,Graduation,Together,62061.00,1,2013-08-31,Spain,Lead
+9303,49,Graduation,Married,5305.00,1,2013-07-30,India,Lead
+6853,43,Master,Single,75777.00,0,2013-07-04,Australia,Customer
+7366,43,Master,Single,75777.00,0,2013-07-04,India,Customer
+9780,54,Master,Together,71499.00,1,2013-06-25,Spain,Lead
+7573,47,PhD,Single,31626.00,1,2013-05-10,Germany,Lead
+1379,33,Master,Together,42670.00,0,2013-04-27,Saudi Arabia,Lead
+8923,52,Graduation,Single,83917.00,0,2013-04-18,Spain,Customer
+3547,56,Master,Together,41021.00,1,2012-12-30,Saudi Arabia,Lead
+8707,69,Graduation,Married,79456.00,0,2012-08-22,Spain,Customer
+1891,45,Master,Divorced,78789.00,0,2012-08-08,Spain,Customer
+6271,73,PhD,Married,50870.00,1,2014-06-19,Spain,Lead
+9635,42,Master,Married,35876.00,0,2014-04-20,Spain,Lead
+9727,68,Graduation,Married,23539.00,0,2014-02-28,Canada,Lead
+6205,58,Master,Single,32557.00,1,2014-02-24,Canada,Lead
+10681,55,2n Cycle,Married,62466.00,1,2014-01-15,Spain,Lead
+5156,55,2n Cycle,Married,62466.00,1,2014-01-15,Spain,Lead
+3050,59,Graduation,Married,54198.00,2,2013-12-17,Spain,Lead
+8164,47,PhD,Married,82170.00,0,2013-11-25,Saudi Arabia,Customer
+5626,61,PhD,Single,61798.00,0,2013-11-23,Spain,Lead
+7600,33,Basic,Single,15253.00,1,2013-10-28,Canada,Lead
+6406,37,Master,Married,78285.00,0,2013-10-28,Germany,Customer
+7002,70,Graduation,Single,62535.00,1,2013-10-03,Spain,Lead
+8234,52,Basic,Together,27190.00,1,2013-08-15,Spain,Lead
+6116,57,2n Cycle,Married,48985.00,1,2013-07-05,Spain,Lead
+291,55,Graduation,Married,72940.00,0,2013-06-19,Saudi Arabia,Lead
+8779,40,2n Cycle,Married,36145.00,1,2013-06-16,USA,Lead
+4931,48,Graduation,Together,157146.00,0,2013-04-29,Saudi Arabia,Customer
+1650,65,Master,Married,81843.00,0,2013-04-22,Spain,Customer
+9701,37,Graduation,Together,41883.00,1,2013-03-19,Canada,Lead
+6431,61,PhD,Married,45759.00,2,2013-02-23,India,Lead
+10789,61,PhD,Married,45759.00,2,2013-02-23,Spain,Lead
+5302,39,Graduation,Together,78394.00,0,2013-02-15,Spain,Customer
+4459,36,Graduation,Single,30279.00,1,2012-12-30,Spain,Lead
+10642,36,Graduation,Single,30279.00,1,2012-12-30,Spain,Lead
+9213,55,Graduation,Widow,31880.00,1,2012-10-31,Spain,Lead
+3678,52,Graduation,Widow,60208.00,2,2012-10-07,Spain,Lead
+3698,42,Graduation,Together,78687.00,0,2012-08-09,Spain,Customer
+5929,52,PhD,Married,37401.00,1,2014-05-06,Spain,Lead
+10795,52,PhD,Married,37401.00,1,2014-05-06,India,Lead
+4390,71,Graduation,Together,75315.00,1,2014-04-15,Saudi Arabia,Lead
+9362,60,Graduation,Single,69263.00,1,2014-03-05,Canada,Lead
+1577,79,Graduation,Married,78569.00,0,2014-02-19,Spain,Customer
+4609,59,PhD,Married,57705.00,1,2014-01-11,Spain,Lead
+7143,70,2n Cycle,Together,74805.00,1,2013-11-06,Spain,Lead
+1729,64,PhD,Together,66426.00,1,2013-10-02,Spain,Customer
+10664,76,Master,Widow,51529.00,1,2013-09-07,Spain,Lead
+5029,79,Graduation,Married,18100.00,0,2013-08-06,Spain,Lead
+10507,48,2n Cycle,Divorced,59601.00,1,2013-07-25,USA,Lead
+3865,48,2n Cycle,Together,20981.00,0,2013-04-30,Canada,Lead
+6982,49,Graduation,Married,74068.00,0,2013-03-19,India,Customer
+7042,42,Graduation,Married,36790.00,0,2013-03-01,Spain,Lead
+9668,54,Graduation,Married,18793.00,1,2013-01-12,Saudi Arabia,Lead
+6878,71,Graduation,Widow,27421.00,0,2012-12-12,Spain,Lead
+4099,53,Graduation,Married,30675.00,1,2012-11-12,Spain,Lead
+5031,51,Graduation,Together,83145.00,0,2012-09-22,Spain,Customer
+1970,57,Master,Together,34053.00,1,2012-09-10,Spain,Lead
+5726,42,Master,Single,31788.00,1,2014-03-20,Saudi Arabia,Lead
+5231,51,2n Cycle,Married,45894.00,2,2014-02-27,Spain,Lead
+1307,47,Graduation,Divorced,41986.00,1,2014-02-09,Spain,Lead
+10609,63,PhD,Married,42769.00,1,2013-10-12,Canada,Lead
+5782,43,2n Cycle,Together,58582.00,1,2013-09-28,Spain,Lead
+7533,61,Graduation,Married,49096.00,2,2013-09-24,Canada,Lead
+9493,45,PhD,Single,76412.00,0,2013-05-05,Canada,Customer
+2253,35,Graduation,Married,18929.00,0,2013-02-16,Spain,Lead
+2326,35,Graduation,Married,18929.00,0,2013-02-16,Spain,Lead
+1876,35,Graduation,Married,18929.00,0,2013-02-16,India,Lead
+7141,39,Master,Single,21888.00,1,2012-12-29,Spain,Lead
+7393,47,Graduation,Together,41580.00,2,2012-12-10,Spain,Lead
+4713,46,PhD,Married,31605.00,1,2012-11-22,Spain,Lead
+5093,51,PhD,Divorced,25509.00,1,2012-09-18,Spain,Lead
+8524,51,PhD,Divorced,25509.00,1,2012-09-18,Spain,Lead
+3766,66,Master,Widow,33051.00,0,2012-08-16,Spain,Lead
+9725,59,PhD,Together,28764.00,2,2014-06-05,Spain,Lead
+8933,42,2n Cycle,Married,32146.00,1,2014-05-12,Canada,Lead
+10779,42,Graduation,Single,22148.00,0,2014-04-13,Spain,Lead
+9289,46,Graduation,Married,36781.00,1,2014-04-10,Spain,Lead
+2613,65,Master,Married,54197.00,1,2014-04-03,Spain,Lead
+10133,55,Graduation,Single,93790.00,0,2014-02-12,Canada,Customer
+8443,53,Graduation,Single,24762.00,1,2014-02-10,Saudi Arabia,Lead
+10796,41,Master,Married,30477.00,1,2014-01-22,India,Lead
+10241,50,2n Cycle,Divorced,11448.00,0,2013-12-15,Spain,Lead
+3388,58,Graduation,Divorced,70844.00,2,2013-10-30,Germany,Lead
+6507,45,Graduation,Single,30828.00,1,2013-10-04,Australia,Lead
+7446,58,Master,Together,62513.00,1,2013-09-09,USA,Lead
+87,44,2n Cycle,Married,27733.00,1,2013-08-26,Germany,Lead
+10477,52,PhD,Together,39435.00,1,2013-08-06,Spain,Lead
+6072,55,Master,Single,75345.00,0,2013-02-02,Spain,Customer
+2518,39,2n Cycle,Together,20491.00,0,2013-01-25,Germany,Lead
+247,54,Graduation,Married,36715.00,1,2012-11-17,Spain,Lead
+9463,66,Graduation,Together,71706.00,1,2012-11-13,Canada,Customer
+1459,59,PhD,Married,69063.00,1,2012-11-07,Spain,Lead
+9530,37,Graduation,Married,24645.00,1,2012-11-01,Saudi Arabia,Lead
+9653,50,Graduation,Married,35797.00,1,2012-10-16,Saudi Arabia,Lead
+10785,56,Graduation,Married,44078.00,2,2014-06-19,Saudi Arabia,Lead
+9392,54,Graduation,Single,26954.00,1,2014-05-08,Spain,Lead
+3769,53,PhD,Together,,1,2014-03-02,Australia,Lead
+10146,53,PhD,Together,38887.00,1,2014-03-02,Australia,Lead
+4741,51,2n Cycle,Married,65463.00,1,2014-01-30,Spain,Lead
+1880,66,PhD,Together,53537.00,2,2014-01-30,India,Lead
+6471,54,Master,Single,36230.00,1,2013-10-17,Spain,Lead
+5718,75,Graduation,Married,80763.00,0,2013-08-15,Saudi Arabia,Customer
+3478,54,PhD,Married,60585.00,2,2013-06-24,Canada,Lead
+7848,51,Graduation,Single,49166.00,1,2013-06-13,India,Lead
+7999,70,PhD,Together,75261.00,0,2013-04-23,Spain,Customer
+11101,34,Graduation,Together,89891.00,0,2013-04-15,Australia,Lead
+9212,63,Master,Married,72828.00,1,2013-02-14,Spain,Customer
+10983,73,Graduation,Together,75278.00,0,2013-01-29,Saudi Arabia,Lead
+3629,47,Graduation,Single,38557.00,1,2012-12-19,Canada,Lead
+4673,62,PhD,Married,81300.00,1,2012-10-30,Spain,Customer
+796,60,2n Cycle,Divorced,60161.00,1,2012-10-23,Canada,Customer
+618,48,PhD,Married,69389.00,1,2012-09-28,Australia,Lead
+380,71,Graduation,Divorced,64497.00,1,2012-09-10,Saudi Arabia,Customer
+1092,45,Graduation,Married,61014.00,1,2012-08-11,India,Customer
+8962,50,Master,Married,44319.00,2,2014-04-17,Saudi Arabia,Lead
+8207,68,2n Cycle,Married,53233.00,1,2014-03-18,Canada,Lead
+6521,71,Graduation,Together,77972.00,0,2014-03-18,Saudi Arabia,Customer
+535,38,Graduation,Divorced,81361.00,0,2014-02-25,Germany,Lead
+4608,38,Graduation,Divorced,81361.00,0,2014-02-25,Saudi Arabia,Lead
+11086,41,Basic,Single,25707.00,1,2014-01-18,Spain,Lead
+1064,54,PhD,Married,42403.00,1,2013-12-11,Spain,Lead
+7000,53,2n Cycle,Single,65704.00,0,2013-10-13,Germany,Lead
+1581,45,Graduation,Married,37406.00,1,2013-10-10,Spain,Lead
+7384,74,Master,Together,39767.00,0,2013-07-21,Spain,Lead
+10552,46,2n Cycle,Married,54210.00,1,2013-05-20,Spain,Lead
+6409,58,Graduation,Divorced,57136.00,0,2013-05-18,Saudi Arabia,Customer
+9507,50,Graduation,Married,40794.00,1,2013-04-07,Spain,Lead
+9560,60,Graduation,Together,83003.00,0,2013-03-03,Spain,Customer
+10991,65,Master,Married,89058.00,0,2012-12-07,Canada,Lead
+4712,34,2n Cycle,Together,20193.00,0,2012-11-28,Spain,Lead
+11056,51,Graduation,Married,72099.00,0,2012-10-27,Spain,Customer
+7414,54,Graduation,Married,43824.00,2,2012-09-15,Spain,Lead
+3076,50,Graduation,Together,66653.00,2,2012-09-07,Australia,Lead
+6355,47,Graduation,Married,44359.00,2,2014-06-17,Spain,Lead
+7959,64,Graduation,Married,79410.00,0,2014-05-29,Spain,Customer
+5512,48,Master,Married,55842.00,1,2014-05-23,Spain,Lead
+10102,59,Graduation,Widow,79946.00,0,2014-05-12,Saudi Arabia,Customer
+9369,46,2n Cycle,Single,88194.00,1,2014-03-19,Germany,Customer
+3711,81,Master,Married,80184.00,0,2014-03-01,Spain,Customer
+6931,58,Graduation,Divorced,76982.00,0,2014-02-15,Spain,Customer
+9596,45,PhD,Single,65295.00,0,2013-12-23,USA,Lead
+2727,52,Graduation,Together,57100.00,0,2013-12-04,Saudi Arabia,Lead
+8416,44,Graduation,Married,29009.00,1,2013-11-29,USA,Lead
+3967,54,PhD,Married,78931.00,0,2013-10-25,Canada,Lead
+2139,50,Master,Married,7500.00,1,2013-10-02,Australia,Lead
+2162,49,Graduation,Married,56939.00,1,2013-09-18,Spain,Lead
+9242,35,Graduation,Single,64509.00,0,2013-08-17,Saudi Arabia,Customer
+10595,35,Graduation,Married,30093.00,0,2013-07-08,Spain,Lead
+4855,51,PhD,Together,30351.00,1,2013-06-06,USA,Lead
+5049,51,PhD,Together,30351.00,1,2013-06-06,Spain,Lead
+4967,65,PhD,Together,38201.00,1,2013-03-29,Saudi Arabia,Lead
+5255,39,Graduation,Single,,1,2013-02-20,Australia,Lead
+9215,45,PhD,Married,43974.00,1,2012-12-12,Canada,Lead
+3525,55,Graduation,Together,38200.00,2,2012-12-07,Spain,Lead
+3619,65,2n Cycle,Divorced,87305.00,0,2012-09-23,Australia,Customer
+4415,64,Graduation,Married,16860.00,2,2012-09-12,Spain,Lead
+3645,53,PhD,Single,27213.00,1,2012-08-30,Spain,Lead
+4692,49,Graduation,Married,7500.00,1,2012-08-01,Australia,Lead
+3955,60,Graduation,Divorced,4861.00,0,2014-06-22,Saudi Arabia,Lead
+5313,54,Master,Married,38196.00,2,2014-04-18,Spain,Lead
+7196,75,PhD,Married,41145.00,2,2014-02-08,Canada,Lead
+1381,43,PhD,Single,38513.00,1,2014-01-28,Spain,Lead
+10951,57,Graduation,Married,45688.00,1,2014-01-25,Spain,Lead
+4322,67,PhD,Together,77863.00,0,2013-11-27,Spain,Customer
+7444,56,Master,Married,42169.00,2,2013-10-19,Spain,Lead
+2942,61,Graduation,Single,45906.00,1,2013-05-07,Spain,Lead
+2874,37,2n Cycle,Divorced,35388.00,1,2013-03-07,Saudi Arabia,Lead
+3667,56,Graduation,Married,80952.00,0,2013-02-28,Germany,Customer
+3697,71,Graduation,Together,39898.00,1,2013-02-12,Canada,Lead
+9955,71,Graduation,Together,39898.00,1,2013-02-12,Spain,Lead
+5320,52,Master,Divorced,44051.00,2,2013-01-29,Saudi Arabia,Lead
+6422,71,Graduation,Married,86718.00,0,2013-01-17,India,Customer
+3690,39,Master,Married,80141.00,0,2013-01-11,Spain,Customer
+2408,49,Graduation,Married,58597.00,2,2012-11-20,India,Lead
+9260,80,PhD,Married,70356.00,0,2012-11-05,Canada,Customer
+9648,58,Graduation,Single,46904.00,2,2012-11-03,Spain,Lead
+4939,79,Graduation,Together,37760.00,0,2012-08-31,USA,Lead
+8652,79,Graduation,Together,37760.00,0,2012-08-31,Saudi Arabia,Lead
+4702,61,Graduation,Single,61839.00,0,2012-08-12,Spain,Customer
+2587,53,PhD,Married,29791.00,1,2014-05-15,Australia,Lead
+2811,62,PhD,Single,48918.00,2,2014-04-12,Spain,Lead
+9150,62,PhD,Single,48918.00,2,2014-04-12,Spain,Lead
+10127,60,Graduation,Married,58692.00,1,2014-04-06,Canada,Lead
+5493,49,Graduation,Married,39356.00,2,2014-03-19,Spain,Lead
+2666,53,Master,Married,76234.00,1,2014-02-06,Canada,Lead
+10099,41,Graduation,Married,55434.00,1,2013-10-05,Saudi Arabia,Lead
+10562,79,Master,Married,66835.00,0,2013-09-28,India,Customer
+7881,79,Master,Married,66835.00,0,2013-09-28,Spain,Customer
+6721,74,Graduation,Married,71965.00,1,2013-07-29,Canada,Customer
+5204,54,Graduation,Together,74538.00,0,2013-06-29,Spain,Customer
+5209,71,Graduation,Divorced,50002.00,1,2013-06-17,Saudi Arabia,Lead
+10128,67,Graduation,Together,53977.00,1,2013-06-08,Canada,Lead
+9284,67,Graduation,Together,53977.00,1,2013-06-08,Spain,Lead
+8643,54,Graduation,Together,69930.00,0,2013-05-26,India,Customer
+1685,58,PhD,Together,62981.00,0,2013-03-17,Canada,Customer
+2877,51,Master,Together,46014.00,2,2013-01-21,Saudi Arabia,Lead
+8369,38,Graduation,Together,18227.00,1,2012-11-08,Spain,Lead
+6233,49,Graduation,Married,65991.00,1,2012-09-07,Spain,Lead
+195,53,Graduation,Single,38808.00,1,2012-08-26,Spain,Lead
+1501,43,PhD,Married,160803.00,0,2012-08-04,USA,Customer
+10846,47,Master,Married,43783.00,1,2014-05-29,Canada,Lead
+8341,56,PhD,Married,30396.00,1,2014-04-30,Spain,Lead
+10766,61,PhD,Married,65526.00,1,2014-04-11,Spain,Lead
+9971,61,PhD,Married,65526.00,1,2014-04-11,Saudi Arabia,Lead
+1740,81,Graduation,Married,55956.00,0,2014-04-07,Spain,Lead
+8737,47,Graduation,Divorced,55563.00,1,2014-04-05,Spain,Lead
+6466,60,PhD,Married,57236.00,2,2014-03-12,Spain,Lead
+10430,52,Graduation,Divorced,89694.00,2,2013-10-09,Australia,Customer
+8773,54,Master,Together,57420.00,1,2013-06-25,USA,Lead
+2371,53,Graduation,Married,33622.00,2,2013-04-13,Germany,Lead
+7786,39,PhD,Single,29999.00,1,2013-02-13,Spain,Lead
+4088,63,PhD,Together,31497.00,1,2012-12-06,Spain,Lead
+4971,63,PhD,Together,31497.00,1,2012-12-06,Saudi Arabia,Lead
+10560,45,PhD,Single,36802.00,1,2014-06-16,Spain,Lead
+6892,57,Graduation,Divorced,61671.00,1,2014-06-03,Spain,Lead
+11004,132,2n Cycle,Single,60182.00,1,2014-05-17,Saudi Arabia,Lead
+1818,54,PhD,Together,29732.00,1,2014-03-25,Canada,Lead
+9485,39,PhD,Married,45921.00,0,2014-03-10,Saudi Arabia,Lead
+6646,41,Graduation,Together,16529.00,1,2014-03-01,Canada,Lead
+4248,65,Master,Single,98777.00,0,2014-02-17,Spain,Customer
+7451,65,Master,Single,98777.00,0,2014-02-17,Spain,Customer
+7861,73,Master,Married,77027.00,1,2014-02-05,Spain,Customer
+5232,60,Graduation,Married,69139.00,1,2014-01-27,Spain,Lead
+3011,60,Graduation,Married,69139.00,1,2014-01-27,Saudi Arabia,Lead
+5758,43,Graduation,Married,65169.00,0,2014-01-14,Spain,Customer
+2173,73,Graduation,Widow,40049.00,1,2013-10-16,Spain,Lead
+10711,80,Graduation,Married,69755.00,0,2013-10-02,Saudi Arabia,Lead
+8268,64,PhD,Married,,1,2013-07-11,Canada,Lead
+2782,64,PhD,Married,54456.00,1,2013-07-11,Spain,Lead
+9432,48,Graduation,Together,666666.00,1,2013-06-02,Saudi Arabia,Lead
+5872,74,Graduation,Single,60689.00,1,2013-06-01,USA,Lead
+11187,47,Basic,Single,26487.00,1,2013-05-20,Canada,Lead
+2428,55,Graduation,Married,28164.00,1,2013-05-04,Germany,Lead
+1726,55,Graduation,Single,22585.00,0,2013-03-18,Spain,Lead
+1802,54,Graduation,Married,64795.00,1,2013-01-17,Spain,Lead
+1162,38,PhD,Single,42000.00,0,2013-01-10,Spain,Lead
+10643,38,PhD,Single,42000.00,0,2013-01-10,Australia,Lead
+11112,59,Graduation,Together,70713.00,1,2012-12-03,Spain,Customer
+2114,79,PhD,Single,82800.00,0,2012-11-24,USA,Customer
+4261,79,PhD,Single,82800.00,0,2012-11-24,Saudi Arabia,Customer
+2457,50,Basic,Married,30801.00,1,2012-10-26,Spain,Lead
+2495,51,Master,Married,83891.00,1,2014-06-20,Spain,Lead
+6983,75,Master,Divorced,38054.00,2,2014-05-01,India,Lead
+3436,56,Graduation,Married,14045.00,1,2014-01-26,Spain,Lead
+7505,68,PhD,Married,44155.00,2,2014-01-19,Spain,Lead
+4286,55,PhD,Single,57642.00,1,2014-01-09,India,Lead
+7224,48,Graduation,Married,31353.00,2,2013-12-29,India,Lead
+6215,48,Graduation,Married,31353.00,2,2013-12-29,Saudi Arabia,Lead
+968,57,Master,Divorced,41335.00,1,2013-12-26,Australia,Lead
+4096,57,Master,Divorced,41335.00,1,2013-12-26,USA,Lead
+3153,68,PhD,Single,40737.00,3,2013-12-08,Saudi Arabia,Lead
+6504,50,2n Cycle,Together,19789.00,1,2013-11-20,Spain,Lead
+5329,76,PhD,Divorced,35946.00,2,2013-09-27,Australia,Lead
+1175,42,Master,Married,36262.00,0,2013-09-20,Spain,Lead
+1377,71,Master,Widow,44551.00,1,2013-08-31,Saudi Arabia,Lead
+4607,66,Graduation,Together,71367.00,0,2013-08-23,Spain,Lead
+4944,66,Graduation,Together,71367.00,0,2013-08-23,Spain,Lead
+9483,66,Graduation,Together,57957.00,1,2013-08-19,Canada,Lead
+1378,53,2n Cycle,Together,50334.00,1,2013-07-24,Saudi Arabia,Lead
+5991,76,Master,Married,48150.00,1,2013-06-08,Germany,Lead
+2807,56,Graduation,Married,56796.00,1,2013-02-16,Spain,Customer
+1052,56,Graduation,Married,56796.00,1,2013-02-16,Australia,Customer
+9760,62,PhD,Widow,52278.00,1,2013-01-25,Saudi Arabia,Customer
+7101,62,PhD,Widow,52278.00,1,2013-01-25,Spain,Customer
+9909,29,2n Cycle,Married,7500.00,0,2012-11-09,Australia,Lead
+5907,73,Master,Married,33444.00,2,2012-11-03,Spain,Lead
+793,52,Graduation,Married,20895.00,1,2012-10-06,Australia,Lead
+8832,49,Master,Together,37509.00,1,2012-09-12,Germany,Lead
+2535,47,Master,Married,88097.00,1,2012-08-18,Spain,Lead
+1523,52,Graduation,Married,59041.00,2,2014-05-07,Saudi Arabia,Lead
+1839,51,Graduation,Single,43322.00,0,2014-04-21,India,Lead
+9972,70,PhD,Together,46015.00,2,2014-04-13,Saudi Arabia,Lead
+2945,70,PhD,Together,46015.00,2,2014-04-13,Canada,Lead
+9291,66,Master,Married,34242.00,1,2014-03-23,Spain,Lead
+2829,70,Graduation,Married,65210.00,1,2014-03-10,Canada,Lead
+8594,67,PhD,Widow,50520.00,1,2014-01-28,Spain,Lead
+1592,55,Graduation,Married,90765.00,0,2014-01-24,Canada,Customer
+4310,81,Graduation,Married,80589.00,0,2014-01-22,Australia,Customer
+6950,67,Master,Married,49572.00,2,2013-12-15,Canada,Lead
+8492,47,Graduation,Together,75437.00,0,2013-11-09,Spain,Customer
+5684,54,Master,Divorced,44635.00,2,2013-10-11,Spain,Lead
+5909,61,Graduation,Married,58512.00,1,2013-09-19,Germany,Customer
+9855,73,PhD,Single,62000.00,1,2013-08-25,Spain,Customer
+975,69,Graduation,Single,54252.00,2,2013-05-28,Australia,Lead
+8754,51,PhD,Together,45068.00,1,2013-05-16,Spain,Lead
+1456,46,Graduation,Single,60474.00,1,2013-04-01,India,Customer
+2849,46,Graduation,Single,60474.00,1,2013-04-01,Canada,Customer
+9984,44,2n Cycle,Married,56337.00,2,2013-03-27,Spain,Lead
+5527,38,Graduation,Together,22434.00,1,2013-02-13,Spain,Lead
+5628,43,Graduation,Together,61416.00,0,2013-02-08,USA,Customer
+7627,50,Master,Married,92163.00,0,2012-12-12,Spain,Customer
+1351,69,Master,Together,58656.00,1,2012-09-20,Spain,Customer
+10629,52,2n Cycle,Married,,1,2012-09-14,Germany,Lead
+10395,39,Basic,Single,8940.00,1,2012-08-22,Spain,Lead
+6961,51,Graduation,Married,26751.00,2,2014-05-22,Spain,Lead
+10196,47,Graduation,Married,71427.00,2,2014-03-12,USA,Lead
+6182,41,Graduation,Together,26646.00,1,2014-02-10,USA,Lead
+10432,51,Graduation,Divorced,19346.00,1,2014-01-30,Canada,Lead
+1542,50,Graduation,Single,56243.00,3,2013-12-30,USA,Lead
+4220,55,PhD,Married,59892.00,1,2013-11-02,Canada,Lead
+4141,60,Graduation,Together,71613.00,0,2013-08-21,USA,Lead
+1940,39,Graduation,Married,25252.00,1,2013-07-12,Australia,Lead
+1506,50,Graduation,Single,42160.00,2,2013-06-28,Spain,Lead
+6347,46,Basic,Single,15862.00,1,2013-06-27,Spain,Lead
+1361,51,Master,Married,82584.00,0,2013-06-04,Spain,Customer
+9422,36,Graduation,Married,38360.00,1,2013-05-31,Australia,Lead
+1081,68,PhD,Married,75283.00,3,2013-03-27,Saudi Arabia,Customer
+7458,69,Master,Together,34941.00,2,2013-03-06,Australia,Lead
+1012,73,Graduation,Single,61823.00,1,2013-02-18,Australia,Lead
+5453,69,Master,Married,90226.00,0,2012-09-26,Saudi Arabia,Customer
+6818,51,Graduation,Married,44989.00,1,2012-09-12,Spain,Lead
+7807,51,Graduation,Married,44989.00,1,2012-09-12,Spain,Lead
+7532,45,Graduation,Married,43586.00,1,2012-08-30,Germany,Lead
+8346,51,Graduation,Single,32233.00,1,2012-08-19,Spain,Lead
+5564,56,Graduation,Together,62882.00,1,2012-08-09,Australia,Customer
+3267,62,Master,Together,57288.00,1,2014-06-25,Canada,Lead
+3091,44,2n Cycle,Together,75774.00,1,2014-05-02,Saudi Arabia,Lead
+762,44,2n Cycle,Together,75774.00,1,2014-05-02,Spain,Lead
+8029,37,Master,Single,90247.00,0,2014-04-29,USA,Customer
+4376,65,2n Cycle,Single,32218.00,0,2014-02-15,Spain,Lead
+10981,37,Graduation,Married,84219.00,0,2014-02-02,Saudi Arabia,Customer
+486,37,Graduation,Married,84219.00,0,2014-02-02,Canada,Customer
+1158,59,Graduation,Divorced,48877.00,1,2014-01-05,Spain,Lead
+9119,75,Graduation,Together,60905.00,1,2013-12-05,USA,Lead
+6694,61,Graduation,Married,75236.00,1,2013-11-25,Spain,Customer
+10573,72,Graduation,Divorced,62551.00,0,2013-11-18,India,Lead
+10140,42,PhD,Together,70123.00,0,2013-09-28,India,Customer
+2286,63,Graduation,Single,50785.00,2,2013-09-10,Canada,Lead
+8420,55,2n Cycle,Married,15315.00,0,2013-08-03,Spain,Lead
+10065,55,2n Cycle,Married,15315.00,0,2013-08-03,Spain,Lead
+1029,55,PhD,Together,64413.00,1,2013-08-01,Spain,Lead
+4207,44,PhD,Married,87171.00,0,2013-05-01,Spain,Customer
+10277,64,Graduation,Single,30081.00,1,2013-02-21,Spain,Lead
+4436,49,Graduation,Single,20180.00,0,2013-02-20,Spain,Lead
+2929,49,Graduation,Single,20180.00,0,2013-02-20,Spain,Lead
+6281,59,Graduation,Divorced,55686.00,1,2013-02-14,Spain,Lead
+10390,66,2n Cycle,Married,26887.00,1,2013-02-10,Spain,Lead
+2574,48,PhD,Married,61996.00,1,2013-01-31,Spain,Customer
+709,73,Graduation,Divorced,51537.00,1,2012-12-09,Saudi Arabia,Customer
+5955,63,Graduation,Together,72025.00,0,2012-11-17,Spain,Customer
+8486,54,Master,Together,30538.00,1,2012-10-01,Spain,Lead
+10343,34,2n Cycle,Single,61618.00,0,2012-09-29,India,Customer
+6652,60,Graduation,Married,77343.00,0,2014-06-09,Canada,Customer
+8746,36,Graduation,Married,75433.00,1,2014-04-05,Spain,Customer
+4686,63,PhD,Widow,82571.00,0,2014-04-02,Spain,Customer
+3551,71,Master,Together,60033.00,1,2014-03-29,Spain,Lead
+4338,42,Graduation,Single,39062.00,1,2014-03-25,Spain,Lead
+4444,53,Graduation,Married,30023.00,1,2014-03-24,Spain,Lead
+498,55,Graduation,Single,30015.00,1,2014-02-02,Spain,Lead
+8230,45,Graduation,Married,33228.00,1,2014-01-23,Spain,Lead
+2826,58,Graduation,Married,22574.00,3,2013-10-28,Spain,Lead
+6222,58,Graduation,Married,22574.00,3,2013-10-28,Spain,Lead
+7352,68,Graduation,Married,55267.00,1,2013-10-21,Canada,Lead
+10928,67,Graduation,Together,66886.00,1,2013-09-16,Spain,Lead
+10736,54,Graduation,Single,72258.00,1,2013-09-12,Canada,Customer
+10163,41,PhD,Single,82733.00,0,2013-09-10,Spain,Customer
+6168,62,Graduation,Divorced,45146.00,2,2013-07-15,India,Lead
+4656,35,2n Cycle,Single,51250.00,1,2013-03-30,Saudi Arabia,Lead
+626,74,Graduation,Married,32871.00,2,2013-03-09,USA,Lead
+3870,47,2n Cycle,Together,63855.00,0,2013-02-09,Germany,Customer
+6299,57,PhD,Divorced,42564.00,1,2013-01-02,Canada,Lead
+7798,53,2n Cycle,Together,46344.00,1,2012-12-14,Canada,Lead
+9973,62,Graduation,Married,50437.00,2,2012-10-17,Spain,Lead
+4299,65,Graduation,Together,70971.00,1,2012-09-21,Spain,Customer
+10971,48,Graduation,Single,37774.00,2,2012-09-03,Spain,Lead
+9931,62,PhD,Married,4023.00,2,2014-06-23,Spain,Lead
+6679,59,Graduation,Single,33279.00,0,2014-06-12,Spain,Lead
+5961,47,Graduation,Married,42693.00,1,2014-06-07,Spain,Lead
+6255,73,Master,Together,70545.00,1,2014-06-03,Australia,Lead
+8614,68,Graduation,Widow,65486.00,1,2014-05-12,Australia,Lead
+7828,44,Master,Together,77882.00,0,2014-04-30,Saudi Arabia,Lead
+1277,65,Graduation,Together,78468.00,0,2014-04-09,USA,Customer
+3595,62,Graduation,Together,77226.00,1,2014-02-28,Spain,Customer
+5735,34,Master,Single,90638.00,0,2014-02-13,Spain,Customer
+5350,34,Master,Single,90638.00,0,2014-02-13,Saudi Arabia,Customer
+4137,77,Graduation,Together,70666.00,0,2013-12-06,Australia,Customer
+6357,66,2n Cycle,Divorced,59052.00,1,2013-11-17,Saudi Arabia,Lead
+9316,73,Basic,Together,13084.00,0,2013-11-02,USA,Lead
+3578,76,Graduation,Divorced,49160.00,1,2013-10-20,Spain,Lead
+153,72,Graduation,Divorced,23272.00,0,2013-10-17,Spain,Lead
+10524,62,Master,Divorced,49476.00,1,2013-06-20,Canada,Lead
+1518,60,Master,Married,62694.00,2,2013-06-17,Spain,Lead
+2036,52,PhD,Together,57906.00,1,2013-06-11,India,Lead
+9495,43,Graduation,Together,71853.00,0,2013-05-08,Spain,Customer
+2631,43,Graduation,Together,71853.00,0,2013-05-08,Spain,Customer
+6312,66,Graduation,Married,65031.00,1,2013-03-17,Germany,Lead
+615,65,Graduation,Together,30507.00,0,2013-03-11,Spain,Lead
+4406,55,Graduation,Together,67419.00,1,2013-01-16,Canada,Customer
+10061,75,Graduation,Married,59462.00,1,2013-01-05,USA,Customer
+10619,31,Graduation,Single,95529.00,0,2012-12-03,Saudi Arabia,Customer
+4945,72,Graduation,Widow,53653.00,0,2012-11-07,Spain,Customer
+1777,45,Basic,Married,25965.00,0,2012-09-07,Spain,Lead
+4023,55,Graduation,Married,22979.00,1,2012-09-06,Spain,Lead
+7922,74,PhD,Single,64950.00,1,2012-08-12,Saudi Arabia,Lead
+10699,40,Graduation,Married,44322.00,1,2014-06-16,Saudi Arabia,Lead
+7516,42,Graduation,Married,30096.00,1,2014-05-22,Germany,Lead
+3129,42,Graduation,Married,30096.00,1,2014-05-22,Spain,Lead
+5121,48,Graduation,Single,56628.00,1,2014-03-21,Canada,Lead
+2186,48,2n Cycle,Together,82326.00,0,2014-03-10,Spain,Customer
+10548,30,Graduation,Single,71163.00,0,2014-03-09,Germany,Lead
+6384,47,Graduation,Divorced,71022.00,1,2014-02-11,USA,Customer
+2625,71,2n Cycle,Single,42607.00,1,2013-11-17,Saudi Arabia,Lead
+1676,50,Graduation,Married,43057.00,1,2013-10-30,Spain,Lead
+5534,50,Master,Married,47808.00,1,2013-10-20,Spain,Lead
+6859,38,Graduation,Single,29236.00,1,2013-10-08,Spain,Lead
+271,56,Graduation,Widow,40590.00,2,2013-10-02,Canada,Lead
+7699,56,Graduation,Widow,40590.00,2,2013-10-02,Canada,Lead
+7832,66,Master,Married,77520.00,1,2013-08-28,Spain,Customer
+938,44,Graduation,Married,40211.00,2,2013-07-30,Spain,Lead
+7873,52,PhD,Together,63516.00,2,2013-07-06,Canada,Lead
+9967,51,Graduation,Divorced,53034.00,2,2013-05-30,USA,Lead
+1087,50,Master,Together,22669.00,1,2013-05-22,Spain,Lead
+8314,43,Graduation,Married,79908.00,0,2013-04-05,Spain,Customer
+3762,39,PhD,Single,69867.00,0,2013-04-02,Saudi Arabia,Lead
+10383,59,Graduation,Divorced,70287.00,0,2013-04-02,Australia,Customer
+6798,59,Graduation,Single,37070.00,2,2013-03-20,Saudi Arabia,Lead
+4168,59,Graduation,Single,37070.00,2,2013-03-20,Spain,Lead
+6690,59,Master,Married,38179.00,2,2013-03-14,Saudi Arabia,Lead
+10602,42,Graduation,Married,39922.00,1,2013-02-14,India,Lead
+3220,42,Graduation,Married,39922.00,1,2013-02-14,Germany,Lead
+5424,42,Graduation,Married,39922.00,1,2013-02-14,Saudi Arabia,Lead
+7488,62,Master,Single,64191.00,1,2013-01-22,Spain,Lead
+5289,50,2n Cycle,Single,41658.00,2,2012-11-09,Australia,Lead
+347,49,Graduation,Divorced,40780.00,1,2012-09-08,Canada,Lead
+5236,46,Graduation,Together,77568.00,1,2012-08-25,Spain,Customer
+9478,40,Graduation,Single,66503.00,1,2012-08-14,Spain,Lead
+477,39,Graduation,Married,83512.00,0,2014-06-17,Spain,Customer
+7411,61,PhD,Married,31686.00,2,2014-06-05,Saudi Arabia,Lead
+3107,49,Graduation,Together,71322.00,1,2014-05-02,Australia,Lead
+7437,37,Graduation,Single,27938.00,1,2014-04-28,Australia,Lead
+255,74,Graduation,Divorced,22263.00,2,2014-03-30,Spain,Lead
+3790,69,Graduation,Together,34633.00,3,2014-01-23,Saudi Arabia,Lead
+749,44,Graduation,Together,42162.00,1,2013-11-19,Spain,Lead
+1503,49,PhD,Together,162397.00,2,2013-06-03,Spain,Lead
+8650,47,Graduation,Widow,54162.00,2,2013-03-18,Spain,Lead
+607,70,2n Cycle,Divorced,41769.00,1,2013-02-13,India,Lead
+1008,44,PhD,Together,44953.00,0,2012-12-21,Germany,Customer
+9396,47,PhD,Married,37717.00,1,2012-11-23,Saudi Arabia,Lead
+933,47,PhD,Married,37717.00,1,2012-11-23,Spain,Lead
+5710,55,Graduation,Together,40548.00,1,2012-10-10,Australia,Lead
+2882,50,2n Cycle,Divorced,67893.00,1,2012-10-01,Saudi Arabia,Lead
+2379,72,Graduation,Single,69267.00,0,2012-09-22,Saudi Arabia,Customer
+5342,49,Basic,Divorced,9548.00,1,2012-08-08,Canada,Lead
+3262,67,Graduation,Single,68281.00,0,2012-08-07,Spain,Customer
+5832,65,2n Cycle,Together,92556.00,0,2014-04-20,Spain,Customer
+5025,46,Graduation,Single,48526.00,1,2013-12-24,Spain,Lead
+569,34,Graduation,Single,90273.00,0,2013-12-14,Spain,Customer
+3102,44,2n Cycle,Together,19414.00,1,2013-10-16,Canada,Lead
+9449,67,PhD,Single,79761.00,1,2013-10-04,Saudi Arabia,Lead
+8104,74,PhD,Married,53312.00,0,2013-08-09,Spain,Lead
+75,43,2n Cycle,Together,41039.00,0,2013-07-25,USA,Lead
+6421,64,Graduation,Together,88347.00,0,2013-07-03,Spain,Customer
+3037,42,PhD,Married,50150.00,0,2013-06-20,Canada,Lead
+4698,42,PhD,Married,50150.00,0,2013-06-20,Spain,Lead
+948,54,Graduation,Single,10245.00,1,2013-05-15,Spain,Lead
+6177,40,PhD,Married,33454.00,1,2013-05-08,USA,Lead
+3517,73,Graduation,Single,40887.00,2,2013-05-06,Spain,Lead
+3491,50,Graduation,Together,55914.00,1,2013-04-29,USA,Customer
+7610,42,Graduation,Together,37292.00,1,2013-04-18,Spain,Lead
+4377,54,Graduation,Married,52914.00,1,2013-01-07,Canada,Lead
+9850,53,2n Cycle,Married,24884.00,1,2012-11-29,Spain,Lead
+5544,55,Graduation,Single,67384.00,1,2012-11-10,Spain,Customer
+6497,65,Graduation,Married,51651.00,1,2012-11-07,Australia,Lead
+4543,45,Graduation,Married,82497.00,0,2012-10-31,Saudi Arabia,Customer
+5117,62,2n Cycle,Married,32632.00,0,2012-08-02,Spain,Lead
+1448,62,Master,Married,33562.00,3,2014-06-25,India,Lead
+6887,58,Graduation,Single,79146.00,2,2014-04-24,Germany,Lead
+7500,58,Graduation,Single,79146.00,2,2014-04-24,Spain,Lead
+2724,44,Master,Single,36143.00,1,2014-03-30,Spain,Lead
+2256,52,Master,Married,27159.00,2,2014-03-29,Spain,Lead
+1100,65,Master,Together,41275.00,3,2014-03-24,Canada,Lead
+7725,60,2n Cycle,Married,76800.00,0,2014-03-08,India,Lead
+2612,38,Graduation,Married,75794.00,0,2013-12-24,Saudi Arabia,Customer
+113,74,Graduation,Married,30833.00,2,2013-07-16,Spain,Lead
+2868,76,PhD,Single,26518.00,2,2013-04-08,USA,Lead
+4216,44,Graduation,Single,91065.00,0,2013-02-22,Spain,Customer
+199,63,Master,Single,45183.00,0,2013-01-20,Canada,Lead
+359,75,Graduation,Together,48070.00,1,2013-01-13,Spain,Lead
+8842,54,Graduation,Widow,30372.00,2,2012-12-25,Spain,Lead
+2154,54,Graduation,Widow,30372.00,2,2012-12-25,Spain,Lead
+6050,50,2n Cycle,Married,57036.00,1,2012-12-11,India,Customer
+9204,55,Graduation,Widow,66731.00,1,2012-09-12,Spain,Customer
+4472,55,PhD,Divorced,35682.00,1,2014-06-27,Australia,Lead
+6864,36,Master,Divorced,10979.00,0,2014-05-22,Australia,Lead
+10617,36,Master,Divorced,10979.00,0,2014-05-22,Spain,Lead
+3924,60,PhD,Divorced,57912.00,1,2014-03-17,Saudi Arabia,Lead
+5654,53,Graduation,Married,36026.00,3,2014-03-16,Australia,Lead
+9216,54,Graduation,Married,35788.00,2,2014-01-23,Canada,Lead
+8086,66,Graduation,Married,42243.00,2,2013-12-11,Saudi Arabia,Lead
+9097,69,Graduation,Divorced,46086.00,1,2013-11-03,Spain,Lead
+7631,47,Master,Together,61346.00,1,2013-10-06,India,Lead
+7275,54,Master,Single,33316.00,2,2013-10-04,USA,Lead
+8334,54,Master,Single,33316.00,2,2013-10-04,Spain,Lead
+1987,38,Basic,Single,21063.00,1,2013-09-25,Spain,Lead
+2281,55,Graduation,Single,33697.00,1,2013-09-15,Germany,Lead
+7034,47,2n Cycle,Married,25804.00,1,2013-09-01,Canada,Lead
+2797,48,Graduation,Married,72117.00,1,2013-08-20,Spain,Customer
+3934,59,Graduation,Married,61286.00,1,2013-08-02,India,Lead
+2493,59,Graduation,Married,61286.00,1,2013-08-02,Germany,Lead
+3759,67,Graduation,Together,65196.00,2,2013-07-25,Spain,Customer
+965,54,Graduation,Divorced,55635.00,1,2012-11-13,USA,Lead
+7378,44,Master,Together,42021.00,1,2012-08-31,Spain,Lead
+1859,53,Master,Married,75251.00,0,2012-08-27,Germany,Customer
+6263,57,Graduation,Together,35322.00,3,2012-08-22,Spain,Lead
+2072,56,PhD,Together,53374.00,1,2012-08-16,Canada,Customer
+8908,66,Graduation,Married,87195.00,0,2014-05-08,Canada,Customer
+738,44,2n Cycle,Single,42395.00,2,2014-04-04,India,Lead
+10129,59,Graduation,Together,82427.00,0,2014-03-12,Spain,Customer
+807,56,Master,Together,44602.00,2,2014-02-15,India,Lead
+3334,74,Graduation,Married,94642.00,0,2014-02-12,Spain,Customer
+5423,42,Graduation,Together,28359.00,1,2013-10-27,Saudi Arabia,Lead
+4426,50,Graduation,Single,55801.00,2,2013-09-22,USA,Lead
+10489,52,Graduation,Married,92955.00,0,2013-08-19,Saudi Arabia,Customer
+2570,57,Graduation,Together,56534.00,1,2013-07-23,Spain,Lead
+3834,63,Graduation,Single,69627.00,1,2013-03-17,USA,Lead
+590,55,Master,Divorced,78579.00,0,2012-12-22,Spain,Customer
+4791,45,Graduation,Together,44964.00,2,2012-12-16,Australia,Lead
+5304,51,PhD,Single,30899.00,1,2012-10-13,Saudi Arabia,Lead
+2426,61,PhD,Divorced,78825.00,0,2012-09-14,Spain,Lead
+35,38,Graduation,Married,25545.00,1,2012-09-08,Spain,Lead
+8041,54,PhD,Widow,47111.00,1,2012-09-08,Saudi Arabia,Customer
+3584,70,PhD,Single,49667.00,0,2012-08-20,Canada,Customer
+7718,78,Master,Together,66000.00,0,2014-04-20,Spain,Lead
+8605,61,PhD,Together,46910.00,2,2014-03-23,Spain,Lead
+1646,53,Basic,Married,25224.00,1,2014-03-16,Canada,Lead
+9206,57,Graduation,Together,77382.00,1,2014-01-07,Spain,Customer
+10757,58,PhD,Divorced,28420.00,1,2013-12-24,Spain,Lead
+6885,48,Graduation,Divorced,32952.00,1,2013-12-01,Canada,Lead
+907,50,Graduation,Married,46149.00,1,2013-11-29,Spain,Lead
+1150,126,PhD,Together,83532.00,0,2013-09-26,Spain,Customer
+3867,78,PhD,Together,73059.00,1,2013-08-31,Spain,Customer
+3859,78,PhD,Together,73059.00,1,2013-08-31,Saudi Arabia,Customer
+3265,66,Graduation,Married,35701.00,0,2013-03-19,Spain,Lead
+4418,42,Master,Single,89616.00,0,2013-02-25,Canada,Customer
+4611,55,Graduation,Together,105471.00,0,2013-01-21,Spain,Customer
+4530,77,Master,Widow,78427.00,0,2012-10-24,Germany,Customer
+7736,39,Graduation,Married,22518.00,1,2012-10-22,Spain,Lead
+9949,49,Graduation,Married,59809.00,2,2012-10-18,Canada,Lead
+942,43,Graduation,Single,39660.00,1,2012-08-08,Spain,Lead
+6181,75,2n Cycle,Together,52203.00,0,2012-07-31,USA,Lead
+7660,52,PhD,Alone,35860.00,2,2014-05-19,Canada,Lead
+2055,52,PhD,Divorced,35860.00,2,2014-05-19,Spain,Lead
+5107,52,PhD,Divorced,35860.00,2,2014-05-19,Spain,Lead
+1626,52,PhD,Divorced,35860.00,2,2014-05-19,Saudi Arabia,Lead
+6428,75,PhD,Widow,76842.00,0,2014-05-03,Spain,Customer
+9617,74,Graduation,Single,15033.00,0,2014-04-16,Saudi Arabia,Lead
+4339,55,PhD,Married,67353.00,1,2013-12-31,Australia,Lead
+7235,50,2n Cycle,Married,17003.00,1,2013-12-09,Germany,Lead
+8527,60,Master,Together,65735.00,2,2013-12-07,Spain,Lead
+1968,54,Graduation,Widow,45684.00,1,2013-12-02,Saudi Arabia,Lead
+9862,56,Graduation,Together,21918.00,1,2013-11-14,Canada,Lead
+11075,47,Graduation,Married,51267.00,2,2013-10-29,Canada,Lead
+6658,53,Graduation,Together,59868.00,1,2013-07-22,Spain,Customer
+4552,34,Graduation,Married,51373.00,0,2013-06-22,Spain,Lead
+10377,67,Master,Together,46692.00,1,2013-06-06,Spain,Lead
+5336,54,Master,Together,157733.00,1,2013-06-04,Spain,Lead
+10350,75,PhD,Married,54432.00,3,2013-05-09,Spain,Lead
+11071,41,Graduation,Single,79607.00,0,2013-04-21,Canada,Customer
+11100,53,Graduation,Divorced,51813.00,2,2013-04-11,Canada,Lead
+6516,36,Basic,Married,17487.00,1,2013-03-18,Australia,Lead
+1734,57,PhD,Together,40706.00,3,2013-01-17,Saudi Arabia,Lead
+2131,66,PhD,Divorced,62859.00,1,2012-12-30,Spain,Customer
+6439,67,Graduation,Married,61074.00,1,2012-08-17,Saudi Arabia,Customer
+10591,56,Graduation,Widow,43638.00,1,2012-08-06,Spain,Lead
+9797,69,Graduation,Married,58116.00,1,2014-04-13,Spain,Lead
+9336,56,PhD,Widow,62187.00,1,2014-03-22,Spain,Lead
+2174,71,Graduation,Single,46344.00,2,2014-03-08,USA,Lead
+3197,45,Graduation,Married,77353.00,1,2013-12-16,Spain,Lead
+9185,59,PhD,Single,69759.00,0,2013-10-28,Spain,Customer
+905,39,Graduation,Divorced,21846.00,1,2013-10-22,Saudi Arabia,Lead
+10858,50,Graduation,Together,76532.00,2,2013-09-09,Spain,Lead
+8925,60,Master,Married,70053.00,1,2013-07-03,Spain,Customer
+2499,67,2n Cycle,Single,75342.00,1,2013-05-06,Spain,Lead
+1109,43,Master,Together,27590.00,1,2013-04-23,Spain,Lead
+326,52,Graduation,Married,51148.00,2,2013-02-18,India,Lead
+10967,62,Graduation,Divorced,33378.00,2,2013-02-06,Saudi Arabia,Lead
+5370,52,PhD,Married,32644.00,1,2013-01-16,Spain,Lead
+2098,56,PhD,Married,33581.00,2,2013-01-08,Spain,Lead
+1773,47,2n Cycle,Married,12393.00,0,2012-12-04,Saudi Arabia,Lead
+5036,41,PhD,Single,42710.00,1,2012-11-28,Spain,Lead
+4856,68,2n Cycle,Married,82347.00,0,2012-11-06,India,Customer
+8722,68,2n Cycle,Married,82347.00,0,2012-11-06,Canada,Customer
+2156,70,PhD,Married,22554.00,2,2012-11-03,Spain,Lead
+2569,38,Graduation,Married,17323.00,0,2012-10-10,USA,Lead
+10151,65,Graduation,Divorced,62204.00,2,2012-09-12,Spain,Lead
+10473,69,PhD,Widow,78028.00,1,2012-09-10,Spain,Lead
+7079,63,Graduation,Divorced,63887.00,1,2012-09-08,Saudi Arabia,Customer
+6875,60,PhD,Together,32727.00,0,2012-08-28,Canada,Lead
+6728,40,Graduation,Together,29103.00,1,2012-08-27,Spain,Lead
+2471,60,Graduation,Married,61482.00,0,2014-06-27,Saudi Arabia,Lead
+49,55,Graduation,Single,20587.00,1,2014-05-11,Canada,Lead
+4973,55,Graduation,Single,20587.00,1,2014-05-11,Canada,Lead
+6387,49,PhD,Together,52190.00,2,2014-05-08,Saudi Arabia,Lead
+5866,51,Graduation,Together,48186.00,1,2014-03-20,Spain,Lead
+8523,57,Graduation,Married,19329.00,1,2013-12-14,Canada,Lead
+7901,54,Master,Married,34109.00,1,2013-11-06,Australia,Lead
+898,39,Graduation,Married,23477.00,1,2013-10-21,Spain,Lead
+10242,59,PhD,Together,47472.00,2,2013-09-16,Spain,Lead
+5835,49,PhD,Divorced,14849.00,1,2013-07-02,Spain,Lead
+6919,47,2n Cycle,Married,26224.00,1,2013-06-04,Spain,Lead
+6197,63,PhD,Single,27238.00,2,2013-04-20,Spain,Lead
+10475,55,Master,Together,,1,2013-04-01,USA,Lead
+4201,63,Graduation,Single,57967.00,1,2013-03-03,India,Lead
+5092,76,PhD,Widow,51569.00,1,2013-02-12,Spain,Lead
+6566,71,PhD,Married,72550.00,2,2012-11-08,Australia,Customer
+6613,55,Master,Married,44511.00,1,2012-10-12,Australia,Lead
+9094,70,2n Cycle,Married,62972.00,1,2012-08-03,Spain,Lead
+9847,70,2n Cycle,Married,62972.00,1,2012-08-03,Spain,Lead
+10767,36,PhD,Together,77845.00,0,2014-05-16,USA,Customer
+7943,50,PhD,Married,36663.00,1,2014-04-25,Saudi Arabia,Lead
+1055,49,Master,Married,53204.00,2,2014-03-20,Germany,Lead
+1458,43,Master,Married,21059.00,1,2014-01-07,Spain,Lead
+8402,72,Master,Married,67087.00,1,2013-12-17,Australia,Lead
+6246,72,Graduation,Single,73892.00,0,2013-11-13,Canada,Customer
+4654,33,Graduation,Together,75114.00,0,2013-11-07,Saudi Arabia,Customer
+6103,77,Graduation,Married,42192.00,0,2013-09-06,Australia,Lead
+8147,65,Graduation,Married,31454.00,2,2013-07-06,Spain,Lead
+10207,47,Graduation,Together,22775.00,1,2013-06-19,Saudi Arabia,Lead
+4838,47,Graduation,Together,22775.00,1,2013-06-19,India,Lead
+10219,53,Graduation,Together,31590.00,1,2013-06-18,Canada,Lead
+2176,53,Graduation,Married,80134.00,1,2013-05-20,Saudi Arabia,Customer
+9121,53,Graduation,Married,80134.00,1,2013-05-20,Australia,Customer
+5802,53,Basic,Married,14188.00,0,2013-02-28,Germany,Lead
+10790,40,PhD,Married,18169.00,1,2013-02-19,Spain,Lead
+178,69,Graduation,Married,62503.00,1,2013-02-18,Spain,Lead
+2308,71,Graduation,Married,46734.00,1,2012-11-18,Spain,Lead
+7431,34,PhD,Single,68126.00,0,2012-11-10,Canada,Customer
+9405,71,PhD,Married,52869.00,2,2012-10-15,Saudi Arabia,Lead
+10525,39,Graduation,Single,26576.00,1,2012-10-13,Spain,Lead
+7503,49,Graduation,Single,75825.00,0,2012-10-12,Germany,Customer
+8783,75,Graduation,Married,57045.00,1,2012-09-08,Australia,Lead
+1403,50,2n Cycle,Together,34984.00,2,2012-09-06,Spain,Lead
+4643,52,Graduation,Married,27803.00,1,2012-08-26,Australia,Lead
+3463,50,PhD,Married,69283.00,1,2014-06-14,India,Lead
+4055,33,Basic,Single,18746.00,1,2014-05-29,Spain,Lead
+7010,60,2n Cycle,Married,70924.00,0,2014-04-07,Spain,Customer
+4767,60,2n Cycle,Married,70924.00,0,2014-04-07,Spain,Customer
+1927,52,2n Cycle,Together,69401.00,1,2014-03-23,Germany,Lead
+437,49,Master,Divorced,75012.00,0,2014-01-25,Australia,Customer
+4331,47,Master,Together,85738.00,0,2014-01-23,Spain,Customer
+4084,50,Graduation,Together,60934.00,1,2014-01-17,Canada,Lead
+8135,39,Master,Married,27161.00,1,2013-10-28,Saudi Arabia,Lead
+9750,64,PhD,Divorced,64325.00,1,2013-02-07,Spain,Customer
+6682,52,Basic,Married,18978.00,1,2012-12-11,Spain,Lead
+10581,48,Graduation,Married,41124.00,1,2012-10-31,Spain,Lead
+3710,41,PhD,Single,39684.00,1,2012-10-12,Spain,Lead
+5207,62,PhD,Married,53378.00,2,2012-09-24,Spain,Lead
+9360,43,Graduation,Married,37040.00,0,2012-08-08,USA,Lead
+4679,48,Master,Married,78710.00,1,2014-05-23,Spain,Customer
+1340,39,Graduation,Married,92910.00,0,2014-04-24,Spain,Customer
+10839,49,Graduation,Together,36283.00,2,2014-04-14,Canada,Lead
+5303,51,PhD,Together,79632.00,0,2014-04-08,Saudi Arabia,Customer
+9829,47,Graduation,Together,28587.00,1,2014-02-12,Spain,Lead
+10469,44,Graduation,Together,88325.00,0,2014-02-05,India,Customer
+3602,67,Master,Married,51412.00,1,2013-12-31,Spain,Lead
+4756,73,2n Cycle,Divorced,63998.00,0,2013-12-20,Spain,Customer
+8181,47,2n Cycle,Single,38593.00,1,2013-09-13,Spain,Lead
+6958,48,Master,Married,27889.00,1,2013-07-05,Australia,Lead
+10856,45,2n Cycle,Single,45889.00,1,2013-07-02,Canada,Lead
+3321,58,PhD,Together,56575.00,2,2013-05-05,Canada,Lead
+5394,46,Basic,Single,16014.00,2,2013-03-17,Spain,Lead
+433,67,Master,Alone,61331.00,2,2013-03-10,Canada,Lead
+6320,49,Master,Single,70893.00,0,2013-02-06,Spain,Customer
+5376,46,Graduation,Married,2447.00,1,2013-01-06,USA,Customer
+1867,68,Graduation,Single,64849.00,0,2012-11-13,Spain,Customer
+4324,36,Graduation,Married,42387.00,1,2012-10-29,Spain,Lead
+3661,30,2n Cycle,Single,80617.00,0,2012-10-12,India,Customer
+521,40,Graduation,Together,54006.00,1,2012-09-18,Spain,Lead
+10403,47,Graduation,Together,16531.00,1,2014-06-18,Canada,Lead
+7186,59,PhD,Together,30843.00,2,2014-05-26,India,Lead
+4329,41,PhD,Married,18988.00,1,2014-05-23,Australia,Lead
+4394,60,PhD,Married,81051.00,0,2014-05-23,Spain,Customer
+1717,37,Graduation,Single,39747.00,1,2014-04-13,Saudi Arabia,Lead
+1016,66,PhD,Single,34554.00,1,2014-03-30,Canada,Lead
+3783,66,PhD,Married,52854.00,2,2014-03-24,Saudi Arabia,Lead
+5848,55,Graduation,Together,81205.00,0,2014-01-13,India,Customer
+10727,55,PhD,Married,69084.00,1,2013-11-19,Spain,Customer
+5299,55,PhD,Married,69084.00,1,2013-11-19,Spain,Customer
+6872,51,PhD,Married,65352.00,1,2013-08-21,Saudi Arabia,Lead
+1143,53,Graduation,Married,22063.00,1,2013-08-08,Canada,Lead
+10381,46,Graduation,Single,47691.00,1,2013-07-05,Spain,Lead
+11007,57,PhD,Married,29187.00,1,2013-05-09,Spain,Lead
+9145,53,Graduation,Single,72504.00,1,2013-04-06,Canada,Customer
+5267,55,Graduation,Divorced,33986.00,1,2013-03-14,Spain,Lead
+9738,39,Master,Together,42386.00,1,2013-01-13,Saudi Arabia,Lead
+10212,39,Master,Together,42386.00,1,2013-01-13,India,Lead
+10010,72,PhD,Divorced,36957.00,2,2012-09-06,Australia,Lead
+10069,37,Basic,Together,13724.00,1,2012-08-31,Saudi Arabia,Lead
+2694,58,Graduation,Married,42664.00,1,2014-03-18,Spain,Lead
+10613,67,PhD,Together,37334.00,2,2014-02-26,Spain,Lead
+4646,74,2n Cycle,Married,78497.00,0,2013-12-01,Canada,Lead
+6935,74,2n Cycle,Married,78497.00,0,2013-12-01,India,Lead
+5596,69,2n Cycle,Together,58821.00,1,2013-10-12,Saudi Arabia,Lead
+1044,72,Graduation,Together,58398.00,0,2013-05-14,Australia,Lead
+9274,64,Master,Married,80950.00,0,2013-03-28,Saudi Arabia,Customer
+9076,45,PhD,Married,30732.00,1,2013-01-05,Saudi Arabia,Lead
+4947,59,2n Cycle,Single,89572.00,0,2012-09-15,Spain,Customer
+10176,57,Graduation,Single,57107.00,1,2012-08-24,Spain,Lead
+3507,55,Graduation,Single,76467.00,1,2012-08-17,USA,Customer
+9235,68,Graduation,Single,,2,2014-05-27,Germany,Lead
+10341,77,Graduation,Together,51315.00,0,2014-02-23,Australia,Lead
+2639,59,Graduation,Single,43602.00,2,2014-01-10,Saudi Arabia,Lead
+6201,47,Graduation,Single,38643.00,2,2013-11-29,Spain,Lead
+7397,74,Graduation,Single,49090.00,1,2013-07-19,Spain,Lead
+2181,55,Graduation,Married,70617.00,0,2013-06-23,Spain,Customer
+1204,55,PhD,Married,67536.00,1,2013-05-22,Saudi Arabia,Customer
+1170,50,Graduation,Married,27573.00,1,2013-03-25,Spain,Lead
+8812,46,2n Cycle,Divorced,13533.00,1,2013-03-10,Spain,Lead
+4690,72,Graduation,Married,50725.00,1,2013-02-13,Canada,Lead
+1715,47,Graduation,Together,25851.00,1,2013-02-11,Australia,Lead
+10821,47,Graduation,Married,57113.00,2,2013-02-06,Spain,Lead
+6543,80,Master,Together,62847.00,0,2013-01-15,Canada,Customer
+7119,43,Graduation,Single,68627.00,0,2013-01-12,Saudi Arabia,Lead
+3518,42,Graduation,Married,25271.00,1,2012-12-05,India,Lead
+1245,59,Graduation,Single,63810.00,1,2012-11-11,Spain,Customer
+2561,59,Graduation,Single,63810.00,1,2012-11-11,Germany,Customer
+9624,67,PhD,Together,65488.00,0,2014-06-13,Spain,Lead
+10509,70,Master,Single,36927.00,2,2014-06-02,USA,Lead
+7629,48,Graduation,Married,22108.00,2,2014-05-08,Spain,Lead
+7875,76,Graduation,Married,72025.00,0,2014-04-29,Australia,Customer
+2815,50,Graduation,Married,33183.00,1,2014-02-24,Spain,Lead
+2936,43,Master,Together,23661.00,1,2013-12-04,Saudi Arabia,Lead
+3665,48,2n Cycle,Together,25315.00,1,2013-11-07,Spain,Lead
+10888,64,Graduation,Single,45938.00,0,2013-11-03,USA,Lead
+6637,37,Graduation,Single,66951.00,0,2013-11-02,India,Customer
+5077,46,Graduation,Together,77298.00,1,2013-11-02,Canada,Lead
+6173,46,Graduation,Together,77298.00,1,2013-11-02,Spain,Lead
+3969,51,Master,Together,43018.00,1,2013-11-01,Germany,Lead
+4580,56,Graduation,Married,75759.00,0,2013-10-25,Saudi Arabia,Customer
+663,36,PhD,Single,33996.00,0,2013-09-11,Spain,Lead
+8299,36,PhD,Single,33996.00,0,2013-09-11,Saudi Arabia,Lead
+8945,55,Graduation,Divorced,54137.00,1,2013-08-16,Saudi Arabia,Lead
+10870,58,Graduation,Married,61223.00,1,2013-06-13,Saudi Arabia,Customer
+1184,57,PhD,Divorced,69674.00,2,2013-05-22,Saudi Arabia,Lead
+6141,53,Master,Single,49494.00,1,2013-04-25,Canada,Lead
+8825,63,Graduation,Together,51195.00,2,2013-04-01,Saudi Arabia,Lead
+2217,50,2n Cycle,Married,37284.00,2,2013-03-29,India,Lead
+4102,50,2n Cycle,Married,37284.00,2,2013-03-29,Spain,Lead
+4653,47,Graduation,Together,42011.00,1,2013-03-26,Saudi Arabia,Lead
+10092,71,Graduation,Divorced,70044.00,1,2013-02-18,Spain,Customer
+5788,53,Graduation,Together,46053.00,1,2013-02-17,Germany,Lead
+4669,44,Basic,Married,24480.00,1,2013-02-11,Saudi Arabia,Lead
+6295,48,Graduation,Married,54233.00,1,2013-02-04,Spain,Lead
+7453,71,Graduation,Single,36130.00,1,2013-02-02,Spain,Lead
+10841,50,PhD,Together,56559.00,1,2012-12-25,Spain,Lead
+821,33,Master,Single,92859.00,0,2012-10-19,Canada,Customer
+3933,45,Graduation,Together,44010.00,1,2012-10-13,Saudi Arabia,Lead
+1225,62,Graduation,Married,80124.00,0,2014-06-26,Saudi Arabia,Customer
+7059,62,Graduation,Married,80124.00,0,2014-06-26,Spain,Customer
+5633,45,Graduation,Married,50183.00,2,2014-06-25,Saudi Arabia,Lead
+843,54,Graduation,Married,64722.00,1,2014-05-26,Spain,Lead
+6211,49,PhD,Together,37395.00,1,2014-05-02,Spain,Lead
+7007,57,Master,Married,29543.00,2,2014-04-01,Spain,Lead
+9671,57,Graduation,Married,19514.00,2,2014-01-26,Spain,Lead
+8975,57,Graduation,Married,19514.00,2,2014-01-26,Spain,Lead
+6616,50,Graduation,Together,59481.00,1,2013-10-23,Spain,Lead
+6248,78,Master,Single,91712.00,0,2013-10-17,Spain,Customer
+7428,50,Graduation,Together,80144.00,0,2013-09-30,Australia,Customer
+3075,53,PhD,Married,59973.00,0,2013-09-11,Spain,Lead
+2937,51,PhD,Single,68352.00,1,2013-08-28,Canada,Lead
+203,50,Master,Single,81169.00,0,2013-04-14,Spain,Customer
+2021,50,Graduation,Married,61456.00,1,2013-03-27,Spain,Customer
+880,59,Basic,Together,22634.00,0,2013-01-16,Spain,Lead
+524,59,Basic,Together,22634.00,0,2013-01-16,Australia,Lead
+10837,50,Graduation,Married,23957.00,1,2012-10-28,Canada,Lead
+7011,52,Graduation,Married,33471.00,1,2012-10-12,Saudi Arabia,Lead
+4184,75,PhD,Together,52157.00,1,2014-06-07,Spain,Lead
+7679,40,PhD,Single,30298.00,0,2014-05-19,Spain,Lead
+7485,75,PhD,Widow,56551.00,2,2014-05-07,Saudi Arabia,Lead
+7530,75,PhD,Widow,56551.00,2,2014-05-07,Spain,Lead
+4369,68,Master,Absurd,65487.00,0,2014-01-10,Canada,Customer
+10652,68,Master,Together,65487.00,0,2014-01-10,Canada,Customer
+286,73,Graduation,Single,44213.00,2,2013-11-29,Spain,Lead
+5922,51,PhD,Married,40344.00,1,2013-10-13,Spain,Lead
+7250,47,Graduation,Together,57867.00,1,2013-10-01,Canada,Lead
+2478,52,Graduation,Married,25410.00,1,2013-08-31,Spain,Lead
+1160,55,Graduation,Married,13260.00,2,2013-08-23,Spain,Lead
+9214,34,Graduation,Married,42691.00,0,2013-08-16,Spain,Lead
+273,55,Master,Married,36138.00,2,2013-07-16,Germany,Lead
+851,53,Master,Married,57136.00,2,2013-07-09,Canada,Lead
+9729,70,Graduation,Widow,58275.00,2,2013-06-02,Germany,Lead
+9665,68,PhD,Divorced,54237.00,1,2013-04-27,Saudi Arabia,Lead
+2620,51,PhD,Married,34596.00,1,2013-04-13,Saudi Arabia,Lead
+8254,51,PhD,Married,34596.00,1,2013-04-13,Germany,Lead
+3852,64,Master,Together,74881.00,2,2013-03-08,India,Lead
+1000,64,Master,Together,74881.00,2,2013-03-08,Spain,Lead
+3099,55,Graduation,Divorced,44267.00,2,2013-02-25,Spain,Lead
+6318,37,Graduation,Married,68487.00,0,2013-01-13,Canada,Customer
+5396,37,Graduation,Married,68487.00,0,2013-01-13,Australia,Customer
+7966,66,Graduation,Single,80982.00,2,2013-01-08,Spain,Customer
+454,45,Graduation,Together,69508.00,1,2012-11-14,Saudi Arabia,Customer
+309,64,PhD,Together,63342.00,1,2012-10-16,Saudi Arabia,Customer
+3571,64,PhD,Together,63342.00,1,2012-10-16,Spain,Customer
+8395,64,Graduation,Single,82014.00,0,2012-08-20,Saudi Arabia,Customer
+2591,66,Graduation,Widow,76320.00,1,2014-06-22,USA,Lead
+1640,71,Graduation,Divorced,64587.00,2,2014-06-22,Spain,Lead
+810,50,Graduation,Married,74190.00,1,2014-05-12,Spain,Lead
+9423,46,Master,Married,32765.00,1,2014-02-23,Spain,Lead
+4345,61,2n Cycle,Single,,2,2014-01-12,Australia,Lead
+89,50,2n Cycle,Married,22212.00,1,2013-12-09,Saudi Arabia,Lead
+5294,36,Graduation,Single,18358.00,1,2013-11-20,Spain,Lead
+1321,51,Graduation,Married,26067.00,1,2013-11-04,Canada,Lead
+2686,56,Basic,Together,22390.00,0,2013-10-21,Australia,Lead
+1215,47,Graduation,Together,70440.00,0,2013-10-08,Spain,Customer
+9283,47,Graduation,Single,60199.00,3,2013-09-12,Canada,Lead
+3120,44,Graduation,Together,38547.00,1,2013-08-28,Canada,Lead
+5868,45,Graduation,Married,19107.00,1,2013-08-22,Canada,Lead
+8143,40,PhD,Single,37929.00,0,2013-07-30,Spain,Lead
+3479,75,Graduation,Single,16813.00,0,2013-07-19,Canada,Lead
+7214,68,Graduation,Married,62187.00,0,2013-07-05,Spain,Customer
+5543,59,Graduation,Together,57811.00,1,2013-06-24,Spain,Lead
+9347,69,Master,Together,50943.00,1,2013-06-21,Spain,Lead
+10160,69,Master,Together,50943.00,1,2013-06-21,Spain,Lead
+1406,50,Graduation,Single,53201.00,2,2013-02-12,Spain,Lead
+7019,62,Graduation,Together,54414.00,2,2013-01-23,Saudi Arabia,Lead
+2157,53,Graduation,Together,26290.00,2,2013-01-12,Canada,Lead
+8939,66,Graduation,Divorced,61250.00,1,2012-12-16,Spain,Lead
+10250,78,Basic,Together,28389.00,0,2012-11-20,Spain,Lead
+1272,60,Master,Single,55250.00,1,2012-10-21,Australia,Lead
+3007,59,Graduation,Together,37758.00,2,2012-10-04,India,Lead
+5513,59,Graduation,Together,37758.00,2,2012-10-04,Spain,Lead
+679,68,PhD,Married,37633.00,2,2012-09-20,Spain,Lead
+8876,62,PhD,Together,33629.00,2,2012-08-08,Spain,Lead
+10827,58,PhD,Married,36947.00,2,2012-08-07,Australia,Lead
+7300,73,Graduation,Divorced,69142.00,1,2014-06-29,India,Lead
+4268,66,Graduation,Married,53154.00,1,2014-06-09,USA,Lead
+4603,65,PhD,Married,65695.00,1,2014-01-31,Spain,Lead
+8659,73,PhD,Together,69805.00,1,2014-01-21,Germany,Customer
+10708,47,2n Cycle,Single,36975.00,1,2013-12-28,Spain,Lead
+1176,52,Graduation,Married,26228.00,1,2013-09-22,Spain,Lead
+10380,53,Master,Married,37787.00,1,2013-09-20,India,Lead
+7037,51,PhD,Married,37087.00,1,2013-08-11,Saudi Arabia,Lead
+11096,73,2n Cycle,Together,57247.00,1,2013-08-08,Spain,Lead
+6374,71,PhD,Married,36930.00,1,2013-05-17,Spain,Lead
+5552,62,Master,Divorced,48721.00,2,2013-05-13,Saudi Arabia,Lead
+2245,56,Master,Married,43641.00,2,2013-04-22,Spain,Lead
+6200,74,Graduation,Married,75903.00,1,2013-04-08,Spain,Lead
+9904,69,Graduation,Married,71391.00,1,2013-03-29,Canada,Customer
+10031,49,PhD,Married,16927.00,2,2013-02-10,Saudi Arabia,Lead
+6642,64,Graduation,Divorced,27215.00,3,2013-01-23,Saudi Arabia,Lead
+10882,49,Graduation,Married,53858.00,1,2012-11-09,Spain,Lead
+5636,62,Graduation,Single,30983.00,0,2012-11-09,India,Lead
+8692,73,Graduation,Together,43462.00,2,2012-09-12,Spain,Lead
+8091,69,Graduation,Married,63943.00,1,2012-09-02,India,Customer
+8080,39,Graduation,Single,26816.00,0,2012-08-17,India,Lead
+8370,49,2n Cycle,Together,75484.00,1,2012-08-02,Canada,Customer
+4550,59,Master,Together,33564.00,1,2014-06-24,Spain,Lead
+3381,72,Master,Married,54348.00,2,2014-06-08,Canada,Lead
+10556,66,Graduation,Married,54984.00,1,2014-05-24,Spain,Lead
+9467,41,Graduation,Single,34738.00,1,2014-05-11,Spain,Lead
+2891,62,Graduation,Divorced,68118.00,1,2013-10-18,USA,Lead
+5011,62,Graduation,Divorced,68118.00,1,2013-10-18,Spain,Lead
+8140,52,Graduation,Together,22682.00,1,2013-10-03,Australia,Lead
+11039,50,Graduation,Married,51948.00,1,2013-09-17,Spain,Lead
+78,56,Graduation,Married,25293.00,1,2013-09-15,Spain,Lead
+5517,56,Graduation,Married,25293.00,1,2013-09-15,Australia,Lead
+5290,61,PhD,Married,41551.00,2,2013-08-14,Canada,Lead
+4128,63,PhD,Together,56067.00,1,2013-07-20,Saudi Arabia,Lead
+8534,73,Graduation,Married,67433.00,2,2013-07-16,Spain,Lead
+9592,42,Graduation,Together,22010.00,1,2013-06-30,Spain,Lead
+8957,73,2n Cycle,Single,64831.00,2,2013-06-10,Saudi Arabia,Customer
+9308,71,Graduation,Married,62820.00,0,2013-05-11,Saudi Arabia,Lead
+544,71,Graduation,Married,62820.00,0,2013-05-11,Spain,Lead
+5989,66,2n Cycle,Divorced,78353.00,1,2013-04-16,Canada,Customer
+635,59,Master,Married,57183.00,2,2013-03-19,Spain,Lead
+6673,60,Graduation,Single,23478.00,0,2013-03-19,USA,Lead
+1710,47,Graduation,Single,30168.00,1,2013-03-07,Spain,Lead
+523,36,Graduation,Married,37155.00,1,2013-01-31,Spain,Lead
+8977,40,Basic,Single,16581.00,0,2013-01-12,Spain,Lead
+9736,45,Graduation,Married,41850.00,2,2012-12-24,USA,Lead
+1544,58,Master,Divorced,81380.00,0,2012-12-22,Canada,Customer
+6575,44,Graduation,Together,56386.00,2,2012-10-27,Saudi Arabia,Lead
+6147,54,Graduation,Divorced,25818.00,1,2012-10-18,Germany,Lead
+6354,41,Graduation,Together,15345.00,1,2012-08-31,Spain,Lead
+4769,48,Master,Together,57954.00,2,2014-06-18,Spain,Lead
+7540,73,Graduation,Married,50300.00,1,2014-05-25,Spain,Lead
+5247,70,PhD,Married,38725.00,2,2014-05-10,Spain,Lead
+5987,36,2n Cycle,Together,10404.00,1,2014-05-04,Spain,Lead
+9960,34,Basic,Single,26868.00,1,2014-04-30,Saudi Arabia,Lead
+10972,76,Graduation,Widow,72298.00,0,2014-03-10,Spain,Lead
+1399,67,Graduation,Married,72905.00,0,2014-01-21,Spain,Customer
+2698,49,Graduation,Single,47025.00,1,2013-11-07,USA,Lead
+6340,40,Graduation,Single,29938.00,1,2013-10-27,Saudi Arabia,Lead
+4107,77,PhD,Together,46681.00,2,2013-10-08,Spain,Lead
+10906,77,PhD,Together,46681.00,2,2013-10-08,Saudi Arabia,Lead
+2557,55,Master,Single,29548.00,1,2013-08-29,Spain,Lead
+8786,69,Master,Married,62058.00,1,2013-05-26,Germany,Lead
+7187,56,Master,Together,,2,2013-05-18,Australia,Lead
+6119,62,PhD,Single,36736.00,2,2013-05-10,Spain,Lead
+2980,73,Master,Single,8820.00,2,2013-03-22,Canada,Lead
+3850,62,Basic,Together,14918.00,1,2012-12-07,India,Lead
+1077,51,Graduation,Together,56715.00,0,2012-12-05,Spain,Customer
+9733,47,Basic,Together,24882.00,1,2012-09-09,India,Lead
+8462,47,Basic,Together,24882.00,1,2012-09-09,Spain,Lead
+4764,73,Master,Together,40442.00,2,2012-08-19,Saudi Arabia,Lead
+2223,60,2n Cycle,Divorced,64176.00,1,2012-08-03,Spain,Customer
+7788,42,PhD,Married,23536.00,1,2014-06-04,Spain,Lead
+5827,67,Graduation,Divorced,35246.00,2,2014-04-16,Saudi Arabia,Lead
+2958,47,Graduation,Married,28442.00,2,2014-02-24,Spain,Lead
+4954,69,Graduation,Married,48195.00,2,2014-01-21,Spain,Lead
+3139,43,2n Cycle,Single,74116.00,0,2013-12-30,Saudi Arabia,Customer
+9952,78,Master,Together,78093.00,0,2013-12-11,Saudi Arabia,Customer
+8180,73,Master,Divorced,59354.00,2,2013-11-15,USA,Lead
+3276,49,2n Cycle,Together,36301.00,1,2013-10-25,Saudi Arabia,Lead
+4994,82,Master,Single,77598.00,0,2013-10-01,Spain,Customer
+3598,53,Graduation,Married,62710.00,1,2013-05-23,Spain,Lead
+945,60,Graduation,Together,36317.00,1,2013-05-22,Spain,Lead
+5048,54,PhD,Single,42767.00,2,2013-05-11,Saudi Arabia,Lead
+6214,43,Master,Married,43815.00,1,2013-04-05,Spain,Lead
+6230,54,Graduation,Divorced,44421.00,2,2013-02-15,Spain,Lead
+2968,82,PhD,Divorced,48948.00,0,2013-02-01,Australia,Lead
+8800,82,PhD,Divorced,48948.00,0,2013-02-01,Saudi Arabia,Lead
+1907,75,Master,Divorced,63120.00,1,2012-09-28,Spain,Customer
+10478,75,PhD,Married,55517.00,2,2012-09-27,Saudi Arabia,Lead
+4188,68,Graduation,Single,36864.00,1,2012-08-13,Australia,Lead
+8720,47,2n Cycle,Together,,0,2012-08-12,India,Customer
+2225,48,Graduation,Divorced,82582.00,0,2014-06-07,Australia,Customer
+4790,67,Graduation,Divorced,79803.00,1,2014-06-02,Spain,Lead
+1131,58,PhD,Single,52569.00,1,2014-04-05,Saudi Arabia,Lead
+202,77,PhD,Widow,82032.00,0,2014-04-05,India,Customer
+9589,77,PhD,Widow,82032.00,0,2014-04-05,India,Customer
+3900,53,Graduation,Married,65685.00,1,2014-03-29,Canada,Lead
+9958,53,Graduation,Married,65685.00,1,2014-03-29,Australia,Lead
+8955,68,PhD,Together,40451.00,2,2014-02-16,Spain,Lead
+10033,52,2n Cycle,Divorced,31163.00,1,2014-02-13,Germany,Lead
+5751,52,2n Cycle,Divorced,31163.00,1,2014-02-13,Canada,Lead
+3308,73,Graduation,Married,35704.00,2,2014-01-03,Saudi Arabia,Lead
+7297,52,Graduation,Single,7500.00,1,2013-12-26,Saudi Arabia,Lead
+8008,42,Graduation,Together,36075.00,1,2013-12-09,Spain,Lead
+1232,43,PhD,Together,70038.00,0,2013-10-25,Germany,Customer
+2345,43,PhD,Together,70038.00,0,2013-10-25,Australia,Customer
+1628,54,Graduation,Together,71796.00,0,2013-10-24,Saudi Arabia,Lead
+5081,58,2n Cycle,Together,47821.00,2,2013-10-20,Spain,Lead
+839,50,PhD,Married,45503.00,1,2013-09-25,Spain,Lead
+3706,47,Graduation,Single,28647.00,1,2013-08-21,Spain,Lead
+5154,53,Master,Divorced,37760.00,1,2013-08-11,Spain,Lead
+8584,73,PhD,Together,85431.00,0,2013-06-08,Spain,Customer
+6583,70,2n Cycle,Married,72635.00,0,2013-06-03,Spain,Lead
+3433,70,2n Cycle,Married,72635.00,0,2013-06-03,Spain,Lead
+10486,77,Graduation,Married,77142.00,0,2013-05-29,Spain,Lead
+8687,47,Graduation,Together,53172.00,1,2013-05-06,India,Lead
+7842,57,Graduation,Single,36065.00,2,2013-03-31,Spain,Lead
+3749,52,Graduation,Together,73926.00,0,2013-03-02,Canada,Customer
+1331,48,Graduation,Single,35790.00,1,2013-01-02,Australia,Lead
+5995,63,Graduation,Divorced,39552.00,2,2012-12-18,Spain,Lead
+8985,61,2n Cycle,Together,68316.00,1,2012-11-04,Spain,Customer
+2798,48,PhD,Together,102160.00,0,2012-11-02,Saudi Arabia,Customer
+7108,60,Master,Widow,51390.00,2,2012-09-08,Saudi Arabia,Lead
+2781,44,Graduation,Single,72066.00,0,2014-06-23,Saudi Arabia,Customer
+3623,49,Graduation,Together,21675.00,1,2014-06-11,India,Lead
+194,60,Graduation,Married,48006.00,2,2014-06-09,Spain,Lead
+10833,50,Graduation,Married,65106.00,1,2014-05-24,Spain,Lead
+2315,65,Graduation,Divorced,58401.00,1,2014-04-20,Spain,Lead
+6336,65,Graduation,Married,29315.00,2,2014-04-06,Saudi Arabia,Lead
+10738,74,Master,Single,49389.00,2,2013-08-29,Australia,Lead
+8286,60,PhD,Together,51717.00,1,2013-08-20,Saudi Arabia,Lead
+2166,65,2n Cycle,Widow,46779.00,2,2013-07-12,Saudi Arabia,Lead
+10691,65,Master,Married,28520.00,2,2013-06-14,Spain,Lead
+9739,62,Graduation,Single,34377.00,1,2013-01-19,Spain,Lead
+1829,64,PhD,Divorced,54959.00,1,2013-01-19,Spain,Customer
+6260,70,Master,Together,82384.00,0,2012-11-19,Australia,Customer
+10448,69,Graduation,Single,46998.00,1,2012-10-22,Spain,Lead
+1343,57,Graduation,Together,58554.00,2,2012-09-26,USA,Lead
+4749,57,Graduation,Together,58554.00,2,2012-09-26,India,Lead
+531,71,PhD,Divorced,57333.00,1,2012-09-22,Spain,Customer
+6905,31,Graduation,Together,80685.00,0,2012-08-22,Spain,Customer
+1045,60,Graduation,Together,52117.00,1,2012-08-16,Spain,Lead
+4012,53,PhD,Together,62220.00,1,2012-08-11,Germany,Customer
+5529,79,PhD,Together,64014.00,3,2014-06-10,Canada,Lead
+4001,79,PhD,Together,64014.00,3,2014-06-10,Saudi Arabia,Lead
+10420,70,Master,Divorced,46390.00,1,2014-05-05,USA,Lead
+7723,46,Graduation,Together,75507.00,0,2014-05-02,Germany,Customer
+2963,46,Graduation,Together,75507.00,0,2014-05-02,Australia,Customer
+10634,74,Master,Married,59412.00,0,2014-04-19,Spain,Lead
+5180,57,PhD,Divorced,50616.00,1,2014-04-18,Spain,Lead
+6866,56,Master,Together,35924.00,2,2014-03-23,Saudi Arabia,Lead
+1328,43,2n Cycle,Married,57937.00,1,2014-02-16,Saudi Arabia,Lead
+1139,41,PhD,Married,73356.00,0,2014-02-06,Spain,Customer
+4961,51,Master,Together,21255.00,1,2014-01-21,Spain,Lead
+5177,51,Master,Married,58494.00,1,2013-12-12,Saudi Arabia,Lead
+2075,56,Graduation,Married,72460.00,0,2013-11-14,Saudi Arabia,Customer
+3428,34,PhD,Together,68682.00,0,2013-10-06,Spain,Customer
+4500,34,PhD,Together,68682.00,0,2013-10-06,Spain,Customer
+7369,44,Master,Married,36959.00,1,2013-10-02,Spain,Lead
+4381,54,PhD,Married,46463.00,2,2013-08-18,Spain,Lead
+9964,46,Graduation,Single,61825.00,1,2013-08-07,Spain,Lead
+1630,46,Graduation,Single,61825.00,1,2013-08-07,Spain,Lead
+5012,36,Graduation,Married,28691.00,1,2013-07-04,Spain,Lead
+6918,36,Graduation,Married,28691.00,1,2013-07-04,Spain,Lead
+7822,49,Graduation,Together,54058.00,1,2013-06-04,Spain,Lead
+10156,50,Graduation,Single,84196.00,1,2013-06-03,Spain,Customer
+3033,62,Master,Together,38620.00,0,2013-05-11,Australia,Lead
+4119,62,Master,Together,38620.00,0,2013-05-11,Germany,Lead
+11110,52,Graduation,Single,3502.00,1,2013-04-13,India,Lead
+332,68,Graduation,Married,47743.00,1,2013-03-22,Spain,Lead
+737,76,PhD,Married,80360.00,0,2013-03-03,Spain,Customer
+10319,54,Graduation,Married,66303.00,1,2013-02-26,Spain,Customer
+2683,56,Graduation,Married,52413.00,2,2013-02-02,Canada,Lead
+3445,69,Graduation,Single,60714.00,0,2013-01-17,Saudi Arabia,Lead
+10913,41,Master,Single,31385.00,1,2012-12-05,Spain,Lead
+4427,30,2n Cycle,Single,83257.00,0,2012-09-18,Spain,Customer
+8717,50,PhD,Married,80427.00,1,2012-09-12,India,Customer
+2066,76,Graduation,Together,38823.00,1,2012-08-30,Spain,Lead
+3340,48,Graduation,Married,42014.00,1,2012-08-17,Canada,Lead
+8685,48,Graduation,Married,42014.00,1,2012-08-17,Saudi Arabia,Lead
+4149,77,PhD,Together,76140.00,0,2014-05-13,Spain,Customer
+8726,61,2n Cycle,Divorced,41713.00,2,2014-04-29,Canada,Lead
+2295,71,PhD,Married,62670.00,1,2014-02-02,Saudi Arabia,Lead
+3283,53,2n Cycle,Married,70932.00,1,2014-01-19,Spain,Lead
+1915,74,PhD,Married,78939.00,0,2013-12-12,Germany,Customer
+800,65,Graduation,Together,44512.00,2,2013-08-30,Saudi Arabia,Lead
+9166,57,Graduation,Married,63967.00,1,2013-08-09,Spain,Lead
+5147,77,Graduation,Single,90842.00,0,2013-07-29,Spain,Customer
+13,78,PhD,Widow,25358.00,1,2013-07-22,Saudi Arabia,Lead
+8557,43,Graduation,Single,,1,2013-06-17,Australia,Lead
+8724,43,Graduation,Single,28567.00,1,2013-06-17,Spain,Lead
+9381,47,Graduation,Married,66373.00,2,2013-06-12,Australia,Lead
+9384,47,Graduation,Married,66373.00,2,2013-06-12,Australia,Lead
+3560,73,Graduation,Together,83844.00,0,2013-05-12,Germany,Customer
+241,73,Graduation,Together,83844.00,0,2013-05-12,Spain,Customer
+7521,73,Graduation,Together,83844.00,0,2013-05-12,Canada,Customer
+9799,57,PhD,Divorced,83664.00,2,2013-05-08,Spain,Customer
+5123,74,Master,Married,27450.00,0,2013-04-15,Spain,Lead
+448,47,PhD,Single,54880.00,1,2013-03-01,Spain,Lead
+4837,60,PhD,Married,71322.00,1,2013-02-16,Spain,Customer
+9365,49,PhD,Single,60000.00,1,2012-12-22,Spain,Customer
+8932,56,Master,Together,65176.00,1,2012-10-29,Saudi Arabia,Customer
+7055,73,PhD,Together,61010.00,1,2012-10-09,Canada,Customer
+3537,44,Graduation,Together,31089.00,1,2012-08-17,Spain,Lead
+9081,37,Graduation,Single,20518.00,1,2014-05-18,Spain,Lead
+4988,77,PhD,Married,34469.00,2,2014-05-04,Saudi Arabia,Lead
+1050,73,Graduation,Married,28332.00,0,2014-04-30,Germany,Lead
+5610,60,Graduation,Together,33456.00,2,2014-04-21,India,Lead
+3526,57,PhD,Married,38443.00,2,2014-01-27,Spain,Lead
+5136,52,Graduation,Single,65333.00,1,2014-01-17,Canada,Lead
+1411,73,Graduation,Divorced,82623.00,0,2013-11-10,Spain,Lead
+701,54,Graduation,Married,73691.00,1,2013-11-06,Spain,Customer
+6203,78,Graduation,Together,74485.00,0,2013-08-24,Spain,Customer
+7192,70,Graduation,Together,65748.00,1,2013-04-15,Spain,Lead
+5181,43,Basic,Single,24367.00,1,2013-03-20,Spain,Lead
+9220,54,Graduation,Single,91700.00,0,2013-01-17,Spain,Customer
+7734,32,Graduation,Absurd,79244.00,0,2012-12-19,Australia,Customer
+10446,68,PhD,Married,82017.00,0,2012-11-07,Canada,Lead
+5524,68,Graduation,Single,58138.00,0,2012-09-04,USA,Customer
+3830,72,Master,Married,59354.00,2,2014-04-24,Canada,Lead
+5186,70,PhD,Married,58482.00,1,2014-03-12,Canada,Lead
+8514,49,Graduation,Together,29478.00,1,2014-01-17,Spain,Lead
+7165,53,Graduation,Together,64474.00,1,2013-10-22,Spain,Lead
+10236,50,Master,Single,31160.00,1,2013-09-16,Saudi Arabia,Lead
+2392,53,Graduation,Married,40321.00,2,2013-07-29,Spain,Lead
+1920,53,Graduation,Married,40321.00,2,2013-07-29,Spain,Lead
+3673,54,Graduation,Single,55239.00,1,2013-07-14,Saudi Arabia,Lead
+1453,82,PhD,Widow,57513.00,0,2013-07-06,Spain,Customer
+4518,46,Graduation,Together,85693.00,1,2013-04-20,Canada,Customer
+8969,48,Graduation,Married,71855.00,1,2013-01-16,Saudi Arabia,Customer
+387,49,Basic,Married,7500.00,0,2012-11-13,USA,Lead
+1079,54,PhD,Married,71969.00,1,2012-10-16,India,Customer
+164,48,PhD,Married,28973.00,0,2012-10-13,Spain,Lead
+3434,74,Graduation,Single,80872.00,0,2014-05-12,Spain,Customer
+5721,69,PhD,Married,84117.00,0,2014-05-11,Canada,Customer
+8418,67,2n Cycle,Single,38741.00,2,2014-03-30,Germany,Lead
+5300,52,Master,Married,38961.00,1,2013-12-30,Spain,Lead
+10424,57,Graduation,Single,75922.00,0,2013-12-09,Saudi Arabia,Customer
+11171,60,Master,Married,56962.00,3,2013-10-11,Australia,Lead
+1600,60,Master,Married,56962.00,3,2013-10-11,Saudi Arabia,Lead
+7851,76,Graduation,Widow,70165.00,0,2013-09-22,Spain,Lead
+10701,52,Graduation,Married,65308.00,0,2013-09-11,USA,Customer
+891,74,Master,Together,29298.00,2,2013-09-07,Spain,Lead
+6912,58,PhD,Married,63246.00,2,2013-08-20,Spain,Lead
+5967,73,Graduation,Together,33402.00,2,2013-07-18,Germany,Lead
+2109,35,Graduation,Single,96843.00,0,2013-04-23,Spain,Customer
+6292,39,PhD,Married,82333.00,0,2013-03-30,Germany,Customer
+8537,76,Graduation,Widow,72643.00,0,2013-02-27,Spain,Customer
+9576,43,PhD,Together,32313.00,1,2013-02-11,Spain,Lead
+5935,69,Master,Single,55284.00,1,2012-12-24,India,Lead
+10264,46,Graduation,Divorced,15287.00,1,2012-10-10,Saudi Arabia,Lead
+234,46,Graduation,Divorced,15287.00,1,2012-10-10,Spain,Lead
+3202,38,PhD,Married,51563.00,0,2012-10-01,Saudi Arabia,Customer
+1103,49,Master,Married,81929.00,1,2012-09-29,Australia,Customer
+610,72,PhD,Together,53593.00,2,2012-08-07,Australia,Lead
+4480,52,Master,Married,60432.00,1,2014-03-09,Saudi Arabia,Lead
+10660,68,Master,Married,66726.00,2,2014-01-12,Spain,Lead
+9353,66,Graduation,Single,62450.00,1,2014-01-06,India,Lead
+4120,50,2n Cycle,Single,49514.00,1,2013-12-17,India,Lead
+2836,53,PhD,Married,43269.00,1,2013-09-16,Germany,Lead
+9579,66,PhD,Married,33762.00,3,2013-07-07,Canada,Lead
+5841,59,Graduation,Together,60894.00,1,2013-06-28,Spain,Lead
+3174,66,Graduation,Together,87771.00,1,2013-05-22,Spain,Customer
+5536,66,Graduation,Together,87771.00,1,2013-05-22,Canada,Customer
+2061,70,Graduation,Married,50737.00,1,2013-05-11,Spain,Lead
+8477,69,Graduation,Divorced,26150.00,3,2013-03-11,Spain,Lead
+640,74,Graduation,Married,57304.00,1,2013-03-11,Spain,Customer
+3828,74,Graduation,Married,71107.00,1,2013-02-17,Spain,Customer
+4093,50,Master,Together,53253.00,2,2013-02-11,Canada,Lead
+8624,67,Graduation,Married,81320.00,0,2013-02-06,Saudi Arabia,Lead
+2802,33,2n Cycle,Married,87000.00,0,2012-12-15,Australia,Lead
+368,51,Graduation,Married,40049.00,1,2012-11-29,India,Lead
+3599,55,Graduation,Married,63684.00,1,2012-11-26,Spain,Customer
+3389,55,Graduation,Married,69016.00,1,2012-11-22,Spain,Customer
+10710,46,Graduation,Married,7500.00,1,2012-08-29,Spain,Lead
+7118,68,Graduation,Married,73803.00,1,2012-08-01,Canada,Customer
+4937,52,2n Cycle,Married,46094.00,2,2014-06-10,Spain,Lead
+1127,52,PhD,Married,85844.00,0,2014-05-29,Spain,Customer
+833,70,Master,Married,38452.00,2,2014-03-30,Spain,Lead
+3565,70,Master,Married,38452.00,2,2014-03-30,Spain,Lead
+6086,70,Graduation,Married,80395.00,0,2013-11-23,Australia,Customer
+1763,37,Graduation,Together,87679.00,0,2013-07-27,Canada,Customer
+4697,76,Master,Divorced,35416.00,0,2013-06-13,Saudi Arabia,Lead
+182,79,PhD,Together,44124.00,1,2013-05-11,Spain,Lead
+1165,67,PhD,Single,50729.00,2,2013-05-02,Saudi Arabia,Lead
+5386,72,Graduation,Together,94384.00,0,2013-03-04,Saudi Arabia,Customer
+6024,72,Graduation,Together,94384.00,0,2013-03-04,Spain,Customer
+2678,35,Graduation,Single,34412.00,1,2013-02-13,Australia,Lead
+5790,40,Graduation,Married,31158.00,1,2013-01-27,Spain,Lead
+236,74,Graduation,Married,34838.00,2,2013-01-19,Canada,Lead
+6001,46,Graduation,Married,56775.00,1,2013-01-02,Spain,Lead
+6250,76,PhD,Widow,54356.00,1,2012-11-19,Spain,Lead
+1168,47,PhD,Married,72159.00,0,2012-10-29,Spain,Customer
+10749,34,Graduation,Single,8028.00,0,2012-09-18,Spain,Lead
+2926,73,Master,Together,55951.00,1,2012-08-23,Saudi Arabia,Customer
+716,76,PhD,Together,67911.00,1,2014-05-22,Spain,Lead
+6544,76,PhD,Together,67911.00,1,2014-05-22,Germany,Lead
+4298,52,PhD,Together,20427.00,1,2014-03-24,Spain,Lead
+5823,55,PhD,Single,32303.00,1,2014-03-08,India,Lead
+8375,57,PhD,Married,55954.00,1,2014-03-03,Australia,Lead
+5723,49,PhD,Together,49187.00,1,2014-01-11,Spain,Lead
+5763,53,Master,Together,49854.00,1,2013-11-10,Canada,Lead
+8727,47,Graduation,Divorced,63693.00,1,2013-10-14,Saudi Arabia,Customer
+3056,47,Graduation,Divorced,63693.00,1,2013-10-14,Saudi Arabia,Customer
+8442,40,Master,Married,19510.00,2,2013-09-04,Canada,Lead
+3712,66,Graduation,Divorced,52332.00,0,2013-08-28,India,Lead
+10722,52,Graduation,Together,55593.00,1,2013-08-21,India,Lead
+2406,76,Graduation,Together,54591.00,1,2013-08-05,Australia,Lead
+7313,76,2n Cycle,Widow,74859.00,0,2013-06-03,Canada,Customer
+2656,54,Graduation,Divorced,40851.00,2,2013-02-21,Canada,Lead
+1993,76,PhD,Married,58607.00,1,2012-12-23,USA,Lead
+4136,33,Basic,Single,7500.00,1,2012-12-03,Spain,Lead
+2928,50,PhD,Single,52614.00,1,2012-12-01,Spain,Lead
+2920,50,PhD,Single,52614.00,1,2012-12-01,Mexico,Lead
+6661,51,Graduation,Married,67445.00,1,2012-08-12,Spain,Customer
+5462,51,Graduation,Married,67445.00,1,2012-08-12,India,Customer
+10897,51,Graduation,Married,67445.00,1,2012-08-12,Australia,Customer
+10542,57,PhD,Married,36778.00,2,2012-08-05,Spain,Lead
+5756,42,Graduation,Together,39453.00,1,2014-04-03,Spain,Lead
+3570,56,PhD,Together,42731.00,1,2013-10-21,Saudi Arabia,Lead
+1072,60,PhD,Single,40760.00,1,2013-08-30,Canada,Lead
+9606,60,PhD,Married,69969.00,0,2013-08-27,Spain,Customer
+2730,70,Graduation,Single,80317.00,0,2013-08-20,Canada,Customer
+2995,68,Master,Together,66636.00,0,2013-08-17,Spain,Customer
+8210,50,Master,Married,54730.00,1,2013-08-15,Spain,Lead
+773,54,Master,Divorced,42835.00,2,2013-06-30,India,Lead
+5272,60,Master,Married,53843.00,1,2013-06-27,Saudi Arabia,Lead
+5125,65,Graduation,Married,79530.00,0,2013-05-17,Spain,Customer
+4391,57,Master,Divorced,63841.00,1,2013-04-21,Saudi Arabia,Lead
+6283,57,Master,Divorced,63841.00,1,2013-04-21,Spain,Lead
+3421,57,Master,Divorced,63841.00,1,2013-04-21,Australia,Lead
+5731,42,Master,Married,27100.00,1,2013-04-05,Spain,Lead
+7152,42,Master,Married,27100.00,1,2013-04-05,Germany,Lead
+3919,49,Master,Single,72309.00,0,2013-03-11,Canada,Customer
+6097,66,Graduation,Single,50664.00,2,2013-01-16,Saudi Arabia,Lead
+5150,46,Basic,Single,20194.00,1,2012-12-17,Spain,Lead
+10479,50,PhD,Married,76618.00,0,2012-12-07,Australia,Customer
+5966,51,PhD,Married,45207.00,2,2012-11-10,Spain,Lead
+3439,53,Graduation,Married,56721.00,2,2012-10-31,Spain,Lead
+6609,59,Graduation,Widow,27038.00,0,2012-09-18,Saudi Arabia,Lead
+5393,48,Graduation,Single,23763.00,1,2012-08-07,Spain,Lead
+9014,50,Graduation,Married,37085.00,2,2014-06-26,India,Lead
+4050,59,Master,Married,49605.00,0,2014-06-21,Canada,Lead
+6862,54,Graduation,Divorced,1730.00,0,2014-05-18,Spain,Lead
+8315,30,Graduation,Single,34824.00,0,2014-03-26,USA,Lead
+5184,30,Graduation,Single,34824.00,0,2014-03-26,Spain,Lead
+3643,51,Master,Married,63206.00,0,2014-03-20,Canada,Lead
+2589,53,Graduation,Divorced,26759.00,1,2014-02-07,Australia,Lead
+4887,49,PhD,Divorced,55412.00,2,2013-11-22,Canada,Lead
+10104,51,Graduation,Together,33590.00,3,2013-11-03,Canada,Lead
+3254,54,Graduation,Married,70886.00,1,2013-10-14,Spain,Lead
+2004,56,Graduation,Single,72679.00,1,2013-09-18,Spain,Customer
+6142,82,Master,Married,65073.00,0,2013-08-20,Spain,Lead
+8553,60,Graduation,Married,44300.00,2,2013-06-23,Spain,Lead
+9805,72,Master,Together,56129.00,1,2013-06-20,Canada,Lead
+849,72,Master,Together,56129.00,1,2013-06-20,Spain,Lead
+1606,54,Graduation,Together,38590.00,1,2013-05-15,Saudi Arabia,Lead
+125,67,2n Cycle,Together,53083.00,2,2013-05-15,India,Lead
+9305,49,2n Cycle,Single,79689.00,0,2013-05-12,Spain,Customer
+4706,59,Graduation,Single,34704.00,1,2013-04-27,Canada,Lead
+4437,63,Graduation,Married,65316.00,2,2013-04-24,Spain,Lead
+3081,47,PhD,Married,41014.00,1,2013-04-22,Spain,Lead
+3536,65,Graduation,Together,19740.00,1,2013-03-24,India,Lead
+8686,46,Basic,Together,23724.00,1,2013-01-08,Spain,Lead
+9707,56,PhD,Married,55212.00,1,2012-11-23,Spain,Customer
+10872,56,PhD,Married,55212.00,1,2012-11-23,Spain,Customer
+9058,70,Graduation,Widow,79800.00,0,2012-09-23,Spain,Customer
+4640,58,Graduation,Divorced,70647.00,1,2012-09-21,Saudi Arabia,Customer
+2525,51,PhD,Married,38410.00,0,2012-09-14,Canada,Lead
+9503,45,Graduation,Single,28071.00,0,2012-08-29,Spain,Lead
+10704,56,Graduation,Single,54803.00,1,2012-08-21,Spain,Lead
+2669,32,Graduation,Single,74293.00,0,2014-05-04,Spain,Customer
+10037,32,Graduation,Single,74293.00,0,2014-05-04,Saudi Arabia,Customer
+5680,41,2n Cycle,Married,35684.00,1,2014-04-22,Spain,Lead
+3726,39,PhD,Together,34320.00,1,2014-02-16,Saudi Arabia,Lead
+4548,44,Graduation,Single,41967.00,2,2013-11-23,Canada,Lead
+4599,49,Master,Married,49681.00,2,2013-11-04,Canada,Lead
+879,49,Master,Married,49681.00,2,2013-11-04,Saudi Arabia,Lead
+7409,55,Graduation,Together,53187.00,1,2013-10-26,Spain,Lead
+1964,74,Graduation,Together,86610.00,0,2013-09-05,Spain,Customer
+0,40,Graduation,Married,70951.00,0,2013-05-04,Saudi Arabia,Customer
+4860,55,Graduation,Single,24206.00,1,2013-03-08,Spain,Lead
+425,40,Graduation,Married,55357.00,2,2013-02-19,India,Lead
+9500,66,Graduation,Married,58113.00,1,2013-01-25,Spain,Lead
+3074,41,PhD,Married,70643.00,0,2012-10-15,Spain,Customer
+5140,40,PhD,Married,64355.00,1,2012-08-24,Spain,Customer
+2611,66,Master,Together,82576.00,0,2012-08-01,Saudi Arabia,Customer
+916,53,PhD,Single,41644.00,2,2014-05-09,Spain,Lead
+10413,41,Graduation,Married,72570.00,0,2014-04-25,Spain,Customer
+3696,60,Graduation,Divorced,30630.00,2,2014-01-27,Spain,Lead
+304,44,Master,Single,22944.00,1,2013-12-23,Spain,Lead
+5113,54,PhD,Divorced,86979.00,0,2013-11-07,Spain,Customer
+2863,55,Graduation,Single,,3,2013-08-23,Spain,Customer
+4597,55,PhD,Together,82072.00,0,2013-07-02,Saudi Arabia,Customer
+675,52,Master,Divorced,52034.00,2,2013-05-17,Spain,Lead
+4483,32,Graduation,Single,72354.00,0,2013-04-17,Saudi Arabia,Customer
+1502,42,Graduation,Together,28427.00,1,2013-03-21,Spain,Lead
+736,42,Graduation,Together,28427.00,1,2013-03-21,India,Lead
+4487,56,Master,Single,39858.00,1,2013-01-24,Saudi Arabia,Lead
+3412,74,Master,Married,67381.00,1,2013-01-15,Spain,Lead
+1744,60,Basic,Single,23529.00,1,2013-01-07,Spain,Lead
+5837,58,Graduation,Married,51479.00,2,2012-12-28,Spain,Lead
+3422,50,Graduation,Married,76068.00,1,2012-11-29,Germany,Customer
+7462,71,Graduation,Single,22507.00,0,2012-11-24,Canada,Lead
+10702,41,Graduation,Single,52413.00,1,2012-11-03,Spain,Lead
+2115,68,Graduation,Together,50116.00,2,2014-06-20,Germany,Lead
+4138,63,Graduation,Single,76624.00,1,2014-05-24,Spain,Lead
+11091,72,Graduation,Together,34587.00,2,2014-05-16,Germany,Lead
+7712,79,PhD,Single,62159.00,0,2014-04-28,USA,Lead
+3535,60,Graduation,Single,66294.00,0,2014-03-17,Spain,Lead
+5899,75,PhD,Together,5648.00,2,2014-03-13,USA,Lead
+8749,41,Graduation,Together,37235.00,1,2014-02-01,Spain,Lead
+10955,61,Graduation,Widow,85620.00,0,2014-01-07,Spain,Customer
+9491,41,Graduation,Together,23976.00,1,2013-12-27,Saudi Arabia,Lead
+5286,38,Master,Single,41020.00,0,2013-10-28,Canada,Lead
+3409,41,Graduation,Single,36108.00,1,2013-10-15,Saudi Arabia,Lead
+2544,74,Master,Divorced,57530.00,1,2013-10-12,India,Lead
+2118,61,2n Cycle,Married,62905.00,1,2013-09-10,Spain,Lead
+9370,80,PhD,Married,65846.00,0,2013-05-17,Canada,Customer
+4864,48,Graduation,Married,34380.00,1,2013-05-02,Canada,Lead
+405,61,Graduation,Divorced,41638.00,1,2013-02-13,Spain,Lead
+10513,33,Graduation,Together,63207.00,0,2013-01-20,Spain,Customer
+5138,75,Graduation,Together,28320.00,1,2013-01-14,Spain,Lead
+8387,68,Graduation,Married,43140.00,1,2013-01-05,Spain,Lead
+378,54,Graduation,Married,52531.00,0,2012-12-30,Spain,Lead
+5846,48,Graduation,Divorced,40246.00,1,2012-12-19,Germany,Lead
+8870,41,Graduation,Together,35196.00,1,2012-11-13,Spain,Lead
+10340,41,Graduation,Together,35196.00,1,2012-11-13,Spain,Lead
+7290,40,Graduation,Single,70596.00,0,2012-10-05,Spain,Lead
+8895,40,Graduation,Single,70596.00,0,2012-10-05,Spain,Lead
+3635,63,PhD,Single,52597.00,1,2014-05-07,Saudi Arabia,Lead
+11178,53,Master,Single,42394.00,1,2014-03-23,Germany,Lead
+2410,56,Graduation,Single,81657.00,0,2014-01-22,Spain,Customer
+3281,65,PhD,Married,49154.00,2,2013-11-03,Spain,Lead
+9905,73,Graduation,Together,34074.00,2,2013-07-13,Spain,Lead
+2437,36,Graduation,Married,,0,2013-06-03,Spain,Customer
+2565,70,Master,Divorced,70638.00,0,2013-06-01,Saudi Arabia,Customer
+7912,47,Graduation,Married,38136.00,1,2013-04-22,USA,Lead
+7072,52,Graduation,Married,67432.00,1,2013-03-29,Australia,Customer
+1409,74,Graduation,Together,40689.00,1,2013-03-18,USA,Lead
+5314,74,Graduation,Together,40689.00,1,2013-03-18,Spain,Lead
+7215,42,Graduation,Single,101970.00,0,2013-03-12,Canada,Customer
+8858,53,PhD,Married,44325.00,1,2013-03-07,Canada,Lead
+895,77,PhD,Married,61467.00,2,2012-12-09,Spain,Lead
+10313,50,Graduation,Married,48178.00,2,2012-10-28,Spain,Lead
+642,45,Basic,Married,16005.00,1,2012-08-14,Canada,Lead
+8504,52,Graduation,Married,79593.00,0,2014-05-12,Germany,Customer
+1020,52,Graduation,Married,79593.00,0,2014-05-12,Spain,Customer
+3717,66,Graduation,Married,61180.00,1,2014-04-23,Spain,Lead
+7646,36,Graduation,Single,64449.00,1,2014-02-18,Spain,Lead
+5796,62,Graduation,Married,77437.00,0,2013-11-26,Spain,Customer
+8625,49,Graduation,Married,17649.00,1,2013-11-12,USA,Lead
+5407,71,Graduation,Together,53103.00,1,2013-09-12,Saudi Arabia,Customer
+4356,54,Graduation,Together,71819.00,1,2013-08-28,Spain,Customer
+2886,54,Master,Divorced,74290.00,1,2013-08-12,Spain,Customer
+10057,74,Graduation,Single,72282.00,0,2013-07-19,Spain,Customer
+10741,74,Master,Together,47352.00,1,2013-04-11,Spain,Lead
+5491,74,Master,Together,47352.00,1,2013-04-11,Australia,Lead
+4442,64,Graduation,Single,46524.00,1,2013-04-05,Canada,Lead
+3972,49,Graduation,Together,50200.00,2,2013-04-03,Spain,Lead
+2431,35,Graduation,Married,18222.00,0,2012-12-31,Spain,Lead
+7899,73,PhD,Married,77610.00,1,2012-10-29,Australia,Customer
+9703,55,PhD,Married,38097.00,2,2012-10-15,Saudi Arabia,Lead
+6927,57,PhD,Married,44377.00,2,2012-10-05,Saudi Arabia,Lead
+7005,44,Graduation,Single,58684.00,0,2014-06-16,Saudi Arabia,Lead
+246,60,Graduation,Married,66480.00,2,2014-05-31,Spain,Lead
+4796,73,Graduation,Divorced,49638.00,1,2014-04-19,Spain,Lead
+4725,75,PhD,Together,50616.00,1,2014-04-13,Spain,Lead
+3286,58,PhD,Divorced,26642.00,1,2014-03-01,Spain,Lead
+10680,39,Graduation,Together,33235.00,1,2014-02-05,Spain,Lead
+4297,56,Graduation,Together,23228.00,1,2014-01-26,India,Lead
+7327,66,PhD,Married,36732.00,2,2013-12-29,Spain,Lead
+1553,79,Graduation,Together,82657.00,0,2013-09-27,Germany,Customer
+1665,61,PhD,Divorced,64140.00,2,2013-09-23,Saudi Arabia,Customer
+10640,51,Graduation,Together,44392.00,2,2013-09-05,Spain,Lead
+7620,35,Basic,Single,16185.00,1,2013-08-05,India,Lead
+7761,47,2n Cycle,Together,38702.00,1,2013-08-01,Australia,Lead
+5062,62,PhD,Married,54072.00,2,2013-07-27,Saudi Arabia,Lead
+6349,38,Master,Divorced,61787.00,0,2013-07-06,Spain,Customer
+3386,33,Graduation,Married,34935.00,0,2013-06-21,Spain,Lead
+8175,33,Graduation,Married,34935.00,0,2013-06-21,Saudi Arabia,Lead
+6245,75,PhD,Together,59292.00,1,2013-06-13,Spain,Lead
+8780,75,PhD,Together,59292.00,1,2013-06-13,Spain,Lead
+2276,70,Graduation,Single,57959.00,1,2013-05-02,Spain,Lead
+1172,42,PhD,Married,92491.00,0,2013-05-01,Spain,Customer
+3225,41,Master,Married,42207.00,1,2013-04-01,Spain,Lead
+8629,69,Graduation,Widow,46984.00,2,2013-03-26,Canada,Lead
+798,38,Graduation,Single,23442.00,1,2012-12-24,Spain,Lead
+269,62,PhD,Single,46757.00,1,2012-11-16,Spain,Customer
+8213,45,2n Cycle,Together,14515.00,1,2012-11-09,Spain,Lead
+10245,39,2n Cycle,Single,80910.00,0,2012-10-31,Spain,Lead
+2447,46,Graduation,Together,30545.00,1,2012-10-17,India,Lead
+9817,55,Master,Single,44802.00,0,2012-08-21,India,Customer
+1371,49,Graduation,Single,79941.00,0,2014-06-28,Australia,Lead
+8093,56,Master,Married,79734.00,0,2014-06-28,Spain,Lead
+713,48,Master,Married,50353.00,0,2014-06-08,Spain,Lead
+11051,69,PhD,Together,77376.00,2,2014-05-10,Canada,Lead
+5545,53,PhD,Married,78075.00,0,2014-04-05,Spain,Lead
+5283,49,PhD,Single,42473.00,2,2014-02-17,Spain,Lead
+5010,37,Graduation,Single,25008.00,1,2014-02-02,Spain,Lead
+7495,77,PhD,Married,56223.00,1,2013-12-20,Spain,Lead
+4368,45,Graduation,Married,47850.00,1,2013-12-03,Spain,Lead
+6303,39,PhD,Together,91820.00,0,2013-11-23,Canada,Customer
+1030,60,PhD,Single,40637.00,2,2013-07-17,Saudi Arabia,Lead
+10364,66,Graduation,Divorced,23295.00,0,2013-07-13,Spain,Lead
+6945,73,Graduation,Single,84574.00,0,2013-06-04,Spain,Customer
+8562,56,Graduation,Together,54165.00,0,2013-05-28,Spain,Lead
+2918,44,Graduation,Divorced,28510.00,2,2013-04-13,Spain,Lead
+9167,69,Graduation,Married,67131.00,1,2013-03-26,Spain,Lead
+4743,56,PhD,Married,56242.00,1,2013-03-03,USA,Lead
+10742,42,PhD,Married,86580.00,0,2013-02-27,Spain,Lead
+10965,70,Graduation,Together,76005.00,0,2013-02-22,Spain,Customer
+7129,63,PhD,Married,54693.00,1,2013-02-17,Spain,Lead
+3732,70,Master,Married,52750.00,1,2013-02-04,Canada,Lead
+7124,57,Graduation,Divorced,36997.00,2,2013-02-01,Canada,Lead
+10686,60,PhD,Together,34230.00,2,2012-12-26,Spain,Lead
+7247,65,Graduation,Widow,47916.00,1,2012-11-22,Germany,Lead
+1513,46,2n Cycle,Together,60839.00,2,2012-08-28,Spain,Customer
+460,53,PhD,Married,79930.00,0,2012-08-08,Saudi Arabia,Customer
+6653,55,PhD,Married,55158.00,2,2012-07-30,Spain,Lead
+9400,67,2n Cycle,Single,85485.00,0,2014-06-21,Spain,Customer
+7106,82,PhD,Married,75865.00,0,2014-03-31,Spain,Customer
+4252,60,Graduation,Married,44375.00,1,2014-03-23,Spain,Lead
+9240,54,PhD,Single,60504.00,1,2014-02-07,Spain,Lead
+10770,66,Graduation,Married,65492.00,0,2014-01-26,Canada,Customer
+176,45,2n Cycle,Single,67506.00,1,2014-01-02,Spain,Lead
+6870,66,PhD,Divorced,68805.00,1,2013-09-17,Spain,Lead
+143,55,Graduation,Single,61209.00,0,2013-08-25,USA,Lead
+6445,58,Graduation,Together,66825.00,0,2013-07-14,Saudi Arabia,Lead
+4278,42,PhD,Single,87188.00,0,2013-06-03,India,Customer
+6906,72,Master,Widow,84953.00,0,2013-06-03,Spain,Customer
+4637,71,PhD,Single,74637.00,0,2013-05-18,Saudi Arabia,Customer
+8690,63,Graduation,Married,86111.00,0,2013-04-19,Canada,Customer
+1173,78,Master,Together,77632.00,0,2013-03-10,Spain,Customer
+1928,52,Graduation,Married,31814.00,1,2013-02-09,Saudi Arabia,Lead
+9029,53,PhD,Married,70116.00,0,2013-01-26,Spain,Customer
+10299,56,PhD,Single,48240.00,0,2012-11-09,Spain,Lead
+9246,40,Master,Together,40101.00,1,2012-10-14,India,Lead
+4943,72,Graduation,Married,70503.00,0,2012-09-30,Spain,Customer
+4122,50,Graduation,Married,79205.00,0,2012-08-29,Spain,Lead
+2853,45,Graduation,Single,51766.00,1,2014-03-11,Canada,Lead
+902,45,Graduation,Together,62994.00,1,2014-03-04,Canada,Lead
+1672,51,PhD,Together,65640.00,1,2014-03-01,Saudi Arabia,Lead
+7254,56,Graduation,Together,38361.00,1,2013-12-27,Saudi Arabia,Lead
+8775,56,Graduation,Together,38361.00,1,2013-12-27,Australia,Lead
+9543,40,Graduation,Married,19986.00,1,2013-11-14,Spain,Lead
+7093,40,Graduation,Married,19986.00,1,2013-11-14,Spain,Lead
+2894,40,Graduation,Single,72903.00,0,2013-10-29,Spain,Customer
+5956,77,PhD,Divorced,45072.00,3,2013-10-16,Australia,Lead
+1921,58,PhD,Married,59062.00,3,2013-10-03,Spain,Lead
+5057,64,Master,Married,61794.00,1,2013-09-14,Spain,Lead
+10260,60,Master,Together,45143.00,1,2013-08-26,Spain,Lead
+2262,60,Master,Together,45143.00,1,2013-08-26,Saudi Arabia,Lead
+7930,56,Master,Single,26877.00,0,2013-08-19,Spain,Lead
+1461,60,PhD,Divorced,36921.00,2,2013-07-28,Canada,Lead
+7514,69,2n Cycle,Together,54342.00,2,2013-07-03,Australia,Lead
+6461,56,Master,Single,62772.00,1,2013-05-19,Spain,Lead
+257,66,PhD,Married,75032.00,1,2013-04-28,Spain,Customer
+9460,62,Graduation,Married,22419.00,0,2013-04-18,Spain,Lead
+3855,62,Graduation,Married,22419.00,0,2013-04-18,Canada,Lead
+367,47,2n Cycle,Married,36550.00,1,2013-02-19,Canada,Lead
+9265,72,Graduation,Married,75027.00,1,2013-01-09,Saudi Arabia,Customer
+1990,51,PhD,Single,63159.00,0,2012-11-05,Spain,Customer
+3594,52,Master,Married,54108.00,2,2012-11-05,Canada,Lead
+9292,73,Graduation,Married,81795.00,0,2012-10-26,Spain,Customer
+6218,60,Graduation,Married,59594.00,1,2012-10-20,Spain,Lead
+6528,43,Master,Together,18492.00,1,2014-06-05,Spain,Lead
+10164,67,Graduation,Single,94472.00,1,2014-04-03,Spain,Customer
+9937,46,Graduation,Single,70337.00,0,2014-01-02,USA,Lead
+274,52,Graduation,Single,34853.00,2,2013-12-23,Germany,Lead
+5250,82,Master,Widow,,0,2013-10-30,Australia,Customer
+11010,41,PhD,Single,16269.00,1,2013-08-30,Spain,Lead
+6969,43,Graduation,Together,50272.00,1,2013-08-07,Australia,Lead
+10735,54,Graduation,Single,22804.00,1,2013-07-31,Saudi Arabia,Lead
+5068,54,Graduation,Single,22804.00,1,2013-07-31,Spain,Lead
+9974,51,Graduation,Married,30631.00,1,2013-07-12,Saudi Arabia,Lead
+7053,59,PhD,Single,78420.00,0,2013-06-29,Saudi Arabia,Customer
+3179,45,Graduation,Single,81741.00,0,2013-06-16,Spain,Customer
+8082,54,Graduation,Married,25721.00,1,2013-05-21,Australia,Lead
+1362,53,Graduation,Single,31907.00,0,2013-03-04,Germany,Lead
+6768,63,Graduation,Divorced,37859.00,3,2013-01-12,Canada,Lead
+2375,53,Graduation,Together,30261.00,3,2012-09-25,Spain,Lead
+6856,46,Graduation,Together,21645.00,1,2012-09-03,Germany,Lead
+4066,47,2n Cycle,Divorced,21282.00,1,2014-05-11,Spain,Lead
+4333,71,Graduation,Together,32144.00,2,2014-03-23,India,Lead
+2948,71,Master,Divorced,62637.00,1,2014-03-01,Canada,Lead
+4927,54,Graduation,Together,16626.00,2,2014-01-15,Saudi Arabia,Lead
+7426,54,2n Cycle,Married,54690.00,2,2013-11-07,Spain,Lead
+8360,54,2n Cycle,Married,54690.00,2,2013-11-07,Spain,Lead
+4058,70,PhD,Single,61284.00,0,2013-10-12,Spain,Lead
+10755,49,2n Cycle,Married,23718.00,1,2013-09-02,Australia,Lead
+8414,63,PhD,Single,33419.00,1,2013-08-17,Spain,Lead
+6810,42,Graduation,Divorced,82025.00,0,2013-05-28,Saudi Arabia,Customer
+3839,67,Basic,Single,15056.00,2,2013-05-03,Spain,Lead
+3483,67,Graduation,Married,48192.00,0,2013-04-06,Canada,Customer
+238,58,2n Cycle,Together,67309.00,2,2013-01-23,Spain,Customer
+591,68,Graduation,Widow,66033.00,1,2013-01-20,India,Lead
+5063,48,Graduation,Single,28769.00,1,2012-12-18,Spain,Lead
+4303,68,PhD,Together,6835.00,1,2012-12-08,Canada,Lead
+2258,39,Graduation,Married,32880.00,1,2012-12-04,Spain,Lead
+7301,43,2n Cycle,Single,23616.00,1,2012-11-17,Spain,Lead
+11121,44,Graduation,Married,19419.00,1,2012-11-10,India,Lead
+5287,52,Graduation,Married,34961.00,1,2014-06-19,Spain,Lead
+6457,49,Graduation,Divorced,64892.00,1,2014-05-29,Saudi Arabia,Lead
+3559,37,2n Cycle,Married,16248.00,1,2014-05-10,India,Lead
+5577,42,Graduation,Together,43776.00,1,2014-05-03,Spain,Lead
+641,58,Graduation,Single,52074.00,1,2014-04-04,India,Lead
+954,65,Basic,Widow,22123.00,0,2014-03-27,Australia,Lead
+1834,47,Master,Single,35544.00,1,2014-03-08,Saudi Arabia,Lead
+8789,36,2n Cycle,Married,59060.00,1,2014-01-11,Spain,Lead
+10584,49,Graduation,Married,65665.00,1,2013-12-02,Spain,Lead
+2337,54,Graduation,Divorced,29819.00,1,2013-10-24,Spain,Lead
+6071,36,Graduation,Single,81217.00,0,2013-07-19,Spain,Customer
+295,36,Graduation,Single,81217.00,0,2013-07-19,Spain,Customer
+10203,35,Graduation,Single,26095.00,1,2013-06-30,Spain,Lead
+3968,55,2n Cycle,Divorced,65706.00,0,2013-06-28,Canada,Customer
+4037,49,Graduation,Divorced,31859.00,1,2013-06-14,Saudi Arabia,Lead
+6932,84,PhD,Married,93027.00,0,2013-04-13,Spain,Customer
+10159,55,Graduation,Divorced,58710.00,1,2013-03-31,Australia,Customer
+1177,59,Master,Together,49618.00,2,2013-01-26,Spain,Lead
+9426,61,Master,Single,58308.00,1,2013-01-12,Spain,Lead
+10637,61,Graduation,Married,40800.00,3,2013-01-01,Spain,Lead
+10826,66,Graduation,Married,18690.00,0,2012-12-28,Spain,Lead
+4086,66,Graduation,Married,18690.00,0,2012-12-28,Germany,Lead
+10304,66,Graduation,Married,18690.00,0,2012-12-28,Spain,Lead
+7998,67,Graduation,Together,28087.00,2,2012-12-11,India,Lead
+10992,58,Graduation,Together,75702.00,2,2012-08-29,Saudi Arabia,Customer
+6383,54,PhD,Together,32892.00,1,2014-05-25,Saudi Arabia,Lead
+10536,54,PhD,Together,32892.00,1,2014-05-25,Spain,Lead
+6036,66,Master,Together,89120.00,0,2014-03-17,Spain,Customer
+11092,64,Graduation,Married,27116.00,2,2014-03-02,Saudi Arabia,Lead
+538,36,Graduation,Single,46107.00,1,2014-02-10,Saudi Arabia,Lead
+10022,52,PhD,Single,54466.00,2,2014-02-09,Spain,Lead
+10157,60,Graduation,Single,59686.00,1,2014-01-25,Canada,Lead
+3503,75,Graduation,Divorced,82460.00,0,2013-12-02,Saudi Arabia,Lead
+146,65,PhD,Single,76045.00,0,2013-11-15,Spain,Customer
+5538,50,Graduation,Divorced,83829.00,0,2013-10-08,Spain,Customer
+3910,50,Graduation,Divorced,83829.00,0,2013-10-08,Spain,Customer
+4227,57,Master,Together,32889.00,2,2013-09-06,Spain,Lead
+6634,46,Master,Divorced,33462.00,1,2013-08-07,Saudi Arabia,Lead
+8916,50,Graduation,Divorced,36627.00,2,2013-07-23,Saudi Arabia,Lead
+6460,43,Graduation,Married,28718.00,1,2013-07-13,India,Lead
+5883,53,Graduation,Married,77981.00,1,2013-05-26,Spain,Lead
+10091,69,Graduation,Single,60230.00,1,2013-05-20,Spain,Customer
+697,56,Graduation,Together,74918.00,0,2013-03-12,Spain,Customer
+2607,72,Graduation,Single,40464.00,1,2013-01-11,Spain,Lead
+8427,69,Master,Single,64857.00,0,2012-11-23,Spain,Customer
+217,69,Master,Single,64857.00,0,2012-11-23,Canada,Customer
+6202,65,Graduation,Together,63381.00,1,2012-10-05,Spain,Customer
+3856,65,Graduation,Together,63381.00,1,2012-10-05,Spain,Customer
+10648,43,2n Cycle,Together,66664.00,0,2012-09-25,Spain,Customer
+5120,43,2n Cycle,Together,66664.00,0,2012-09-25,Saudi Arabia,Customer
+6749,59,Graduation,Single,86358.00,2,2012-08-08,Spain,Customer
+1584,48,Graduation,Married,41443.00,1,2014-04-01,Saudi Arabia,Lead
+9559,64,PhD,Married,57072.00,1,2014-01-24,Canada,Customer
+771,58,Graduation,Together,54178.00,1,2014-01-21,Germany,Lead
+5237,75,PhD,Single,48767.00,3,2014-01-01,Australia,Lead
+2461,70,Master,Single,51124.00,2,2013-12-18,Canada,Lead
+5474,55,Graduation,Single,43020.00,1,2013-11-30,USA,Lead
+2895,62,Graduation,Single,49980.00,1,2013-10-23,India,Lead
+7972,70,Graduation,Single,72906.00,0,2013-09-17,Spain,Customer
+10067,49,2n Cycle,Together,25176.00,2,2013-08-10,Germany,Lead
+500,48,Graduation,Together,96876.00,0,2013-08-06,Spain,Customer
+922,46,2n Cycle,Married,31086.00,2,2013-05-04,Germany,Lead
+2861,42,Graduation,Single,24072.00,1,2013-04-16,Spain,Lead
+375,71,Graduation,Divorced,76773.00,0,2013-02-25,Spain,Customer
+10936,60,Graduation,Married,72190.00,0,2013-02-13,Australia,Customer
+10314,77,PhD,Married,83837.00,0,2012-12-16,India,Customer
+4240,47,Graduation,Married,17345.00,1,2012-11-03,Spain,Lead
+2674,67,Master,Single,75154.00,1,2012-09-04,USA,Customer
+2563,64,Basic,Married,28249.00,0,2014-06-15,India,Lead
+8312,64,Basic,Married,28249.00,0,2014-06-15,Spain,Lead
+6999,45,Master,Married,69661.00,0,2014-05-13,India,Lead
+7574,46,PhD,Together,27922.00,1,2014-05-10,Saudi Arabia,Lead
+5223,59,Master,Together,45903.00,1,2014-04-23,Saudi Arabia,Lead
+2952,48,Master,Single,36273.00,1,2014-04-16,Spain,Lead
+7683,57,Master,Married,70777.00,1,2014-02-25,Spain,Lead
+9481,49,Graduation,Married,17148.00,1,2014-01-28,Canada,Lead
+9907,56,Master,Together,66476.00,1,2013-12-04,Germany,Customer
+5454,46,Master,Married,45057.00,1,2013-12-01,USA,Lead
+3798,57,Graduation,Married,41120.00,2,2013-11-06,Spain,Lead
+7281,66,PhD,Single,,0,2013-11-05,Australia,Lead
+4259,39,Master,Single,19485.00,2,2013-09-24,India,Lead
+2549,42,PhD,Together,21840.00,1,2013-07-21,Spain,Lead
+6437,40,2n Cycle,Single,41473.00,1,2013-06-19,Spain,Lead
+2488,69,2n Cycle,Divorced,31395.00,2,2013-03-23,Spain,Lead
+3945,78,PhD,Widow,68117.00,1,2013-03-10,Spain,Lead
+702,50,2n Cycle,Widow,47682.00,1,2013-02-15,Spain,Lead
+9010,53,Master,Married,83151.00,0,2013-02-10,Spain,Customer
+9710,56,PhD,Divorced,58086.00,1,2013-01-20,Spain,Lead
+1509,67,PhD,Together,84460.00,0,2013-01-04,Spain,Lead
+9120,63,Graduation,Single,66565.00,1,2012-12-05,Spain,Customer
+5252,56,Graduation,Divorced,23910.00,1,2012-10-26,Spain,Lead
+5959,57,Graduation,Single,35893.00,2,2012-10-15,India,Lead
+7441,52,Graduation,Divorced,71128.00,1,2012-10-06,USA,Customer
+4271,36,2n Cycle,Together,38683.00,1,2012-10-04,India,Lead
+4095,54,Graduation,Married,37150.00,1,2012-09-11,USA,Lead
+8852,49,Graduation,Married,61064.00,1,2012-08-31,Spain,Customer
+7698,49,PhD,Married,51650.00,1,2014-05-11,India,Lead
+4174,69,Master,Together,55249.00,1,2014-04-17,Spain,Lead
+3182,52,PhD,Single,46854.00,2,2014-03-31,India,Lead
+193,29,Basic,Married,14421.00,0,2014-02-17,Spain,Lead
+5229,56,PhD,Together,54132.00,1,2014-02-16,Germany,Lead
+5555,50,Graduation,Divorced,153924.00,0,2014-02-07,Spain,Lead
+7732,47,Graduation,Married,64813.00,1,2014-01-02,Spain,Lead
+310,55,Master,Married,61872.00,1,2013-12-13,Canada,Lead
+6261,46,Graduation,Married,58025.00,1,2013-11-26,India,Lead
+6274,77,Master,Married,83790.00,0,2013-11-15,Saudi Arabia,Customer
+1655,46,Graduation,Together,34350.00,1,2013-10-19,Australia,Lead
+2740,67,PhD,Widow,33438.00,2,2013-09-22,Spain,Lead
+4328,39,2n Cycle,Married,21955.00,1,2013-09-07,Spain,Lead
+17,54,PhD,Married,60491.00,1,2013-09-06,Spain,Customer
+9153,61,PhD,Married,59304.00,1,2013-07-29,Spain,Customer
+520,51,Graduation,Married,34421.00,1,2013-07-01,Spain,Lead
+8372,51,Graduation,Married,34421.00,1,2013-07-01,Saudi Arabia,Lead
+73,72,PhD,Single,51411.00,3,2013-05-26,India,Lead
+2002,67,Graduation,Divorced,71964.00,0,2013-05-20,Spain,Customer
+6059,72,PhD,Together,64504.00,3,2013-03-04,Spain,Customer
+11166,64,Graduation,Married,49678.00,1,2013-02-02,Spain,Lead
+6257,49,Master,Single,60482.00,1,2013-01-23,Saudi Arabia,Lead
+9224,53,PhD,Single,55260.00,1,2012-12-12,Saudi Arabia,Customer
+8732,56,Master,Widow,67369.00,1,2012-11-17,Spain,Customer
+955,63,Master,Together,47175.00,2,2012-10-28,Saudi Arabia,Lead
+4910,58,Graduation,Divorced,68743.00,0,2012-08-30,USA,Customer
+564,44,PhD,Together,56937.00,1,2012-08-04,Spain,Lead
+8931,39,Graduation,Together,83033.00,1,2014-05-18,Saudi Arabia,Customer
+1998,49,Graduation,Single,37697.00,1,2014-02-07,India,Lead
+1250,49,Graduation,Single,37697.00,1,2014-02-07,Spain,Lead
+8397,74,Graduation,Married,44689.00,2,2014-01-10,Spain,Lead
+9672,55,2n Cycle,Married,23162.00,2,2013-12-21,Canada,Lead
+2125,66,Graduation,Divorced,63033.00,0,2013-11-15,USA,Customer
+5975,58,PhD,Single,40304.00,1,2013-09-30,Canada,Lead
+983,41,Graduation,Married,40059.00,1,2013-09-28,USA,Lead
+9938,71,Graduation,Married,80067.00,0,2013-09-19,India,Customer
+4385,44,PhD,Single,36038.00,1,2013-05-31,Spain,Lead
+1612,44,PhD,Single,,1,2013-05-31,Australia,Lead
+803,57,Graduation,Together,40521.00,2,2013-04-05,Spain,Lead
+10675,69,PhD,Married,66334.00,1,2013-04-03,Spain,Customer
+7004,41,Graduation,Single,11012.00,1,2013-03-16,India,Lead
+4432,49,Graduation,Divorced,31615.00,1,2013-03-16,Spain,Lead
+5079,54,Graduation,Married,,2,2013-03-03,Australia,Lead
+4475,76,PhD,Married,69098.00,0,2013-02-16,Spain,Customer
+10868,74,Graduation,Widow,70792.00,0,2013-02-06,Spain,Customer
+6742,46,Graduation,Married,17688.00,1,2013-01-13,Spain,Lead
+5692,36,Basic,Married,25443.00,1,2012-12-22,Saudi Arabia,Lead
+339,53,PhD,Married,57091.00,1,2012-11-23,Spain,Lead
+10398,44,2n Cycle,Single,24336.00,1,2012-08-27,Spain,Lead
+8017,44,2n Cycle,Married,51111.00,2,2014-06-19,Saudi Arabia,Lead
+3722,53,Graduation,Single,44503.00,2,2014-04-16,Spain,Lead
+7326,54,Master,Married,56850.00,1,2014-03-23,Canada,Lead
+2416,56,PhD,Single,66582.00,0,2014-03-03,Spain,Customer
+1878,40,2n Cycle,Married,23148.00,0,2014-02-18,Spain,Lead
+5278,61,Graduation,Married,82224.00,0,2014-01-25,Germany,Lead
+5734,51,PhD,Married,61917.00,2,2013-11-20,Spain,Lead
+4370,59,Graduation,Together,43482.00,3,2013-11-13,India,Lead
+8405,46,Graduation,Divorced,68274.00,2,2013-09-30,Saudi Arabia,Lead
+7617,51,Graduation,Single,42373.00,2,2013-08-15,Spain,Lead
+10339,71,Master,Together,,1,2013-06-23,Australia,Lead
+6376,46,Graduation,Single,57537.00,1,2013-06-10,Australia,Lead
+2150,67,PhD,Widow,80995.00,1,2013-05-11,Canada,Customer
+7386,49,Graduation,Divorced,30992.00,1,2013-04-22,Canada,Lead
+3006,49,Graduation,Divorced,30992.00,1,2013-04-22,Canada,Lead
+11088,54,PhD,Together,78642.00,1,2013-04-21,Spain,Customer
+5185,70,Graduation,Married,74268.00,0,2013-02-14,Saudi Arabia,Lead
+3523,63,Graduation,Together,75072.00,1,2013-01-23,Spain,Customer
+55,62,Graduation,Together,56253.00,1,2012-12-07,Spain,Lead
+3807,70,Graduation,Together,59925.00,1,2012-11-30,Spain,Lead
+2453,65,Graduation,Together,62807.00,1,2012-08-31,Spain,Lead
+7787,65,Graduation,Together,62807.00,1,2012-08-31,Canada,Lead
+2230,55,PhD,Married,23626.00,1,2014-05-24,Germany,Lead
+8146,49,Master,Together,46106.00,2,2014-05-11,Saudi Arabia,Lead
+988,60,Graduation,Married,81168.00,0,2014-05-07,Spain,Customer
+4832,46,Graduation,Married,27244.00,1,2014-03-07,Spain,Lead
+3152,68,Graduation,Together,26091.00,2,2014-02-25,India,Lead
+11188,68,Graduation,Together,26091.00,2,2014-02-25,Spain,Lead
+361,56,Master,Married,43142.00,2,2014-02-18,Australia,Lead
+5939,54,Graduation,Together,38232.00,2,2014-01-17,Spain,Lead
+9349,40,Graduation,Married,92533.00,0,2013-12-19,Germany,Customer
+819,80,Graduation,Widow,63285.00,0,2013-11-05,Spain,Customer
+10120,70,Graduation,Together,38946.00,1,2013-10-24,USA,Lead
+4541,70,Graduation,Together,38946.00,1,2013-10-24,Canada,Lead
+2456,50,PhD,Married,40233.00,1,2013-10-14,Saudi Arabia,Lead
+2516,56,2n Cycle,Married,46831.00,2,2013-06-08,Spain,Lead
+11013,38,Graduation,Together,67605.00,0,2013-03-31,Spain,Lead
+9988,49,Master,Single,70379.00,1,2013-03-03,Canada,Lead
+1627,68,2n Cycle,Divorced,77297.00,0,2013-01-26,Spain,Lead
+1490,63,Graduation,Married,55759.00,1,2012-11-28,Canada,Lead
+6710,74,Master,Single,58217.00,3,2012-11-17,Spain,Lead
+7375,49,Graduation,Together,51369.00,1,2012-10-25,Saudi Arabia,Lead
+10144,49,Graduation,Together,51369.00,1,2012-10-25,Saudi Arabia,Lead
+3138,69,Graduation,Single,91249.00,0,2012-10-20,Spain,Customer
+1440,47,2n Cycle,Together,52513.00,0,2012-09-04,Spain,Customer
+4200,55,Master,Married,44159.00,1,2014-06-17,Saudi Arabia,Lead
+4998,63,Graduation,Together,76081.00,0,2014-05-23,Spain,Customer
+7321,63,Graduation,Together,76081.00,0,2014-05-23,India,Customer
+8663,51,Graduation,Divorced,39996.00,2,2014-05-22,Australia,Lead
+1958,52,PhD,Together,55012.00,1,2014-03-21,Spain,Lead
+6963,78,Graduation,Single,77457.00,0,2014-03-05,Saudi Arabia,Customer
+1065,62,Graduation,Single,80695.00,0,2013-12-29,USA,Customer
+2712,69,Graduation,Married,71866.00,1,2013-12-25,Australia,Lead
+6049,43,Master,Together,73450.00,0,2013-12-05,Spain,Customer
+6605,81,PhD,Divorced,55614.00,0,2013-11-27,Spain,Lead
+11181,76,PhD,Married,156924.00,0,2013-08-29,Canada,Lead
+5234,58,2n Cycle,Together,30753.00,2,2013-07-11,Canada,Lead
+5253,69,Master,Together,54603.00,2,2013-07-09,Spain,Lead
+11148,50,Graduation,Together,22280.00,1,2013-05-19,Spain,Lead
+6289,74,Master,Together,59385.00,2,2013-04-28,Spain,Lead
+9743,70,Graduation,Married,76998.00,1,2013-01-11,Canada,Customer
+9209,54,Master,Together,80573.00,0,2012-10-14,Saudi Arabia,Customer
+6417,54,Master,Together,80573.00,0,2012-10-14,Spain,Customer
+7937,43,Graduation,Married,24711.00,0,2014-04-18,Spain,Lead
+6488,66,PhD,Married,38829.00,1,2014-04-06,Germany,Lead
+3194,51,PhD,Single,71466.00,0,2014-04-05,Canada,Customer
+231,69,Master,Together,28839.00,2,2014-03-11,Spain,Lead
+9697,74,Graduation,Married,53790.00,2,2014-03-06,Spain,Lead
+4676,74,Master,Widow,73705.00,2,2014-03-05,Spain,Customer
+8079,43,Graduation,Married,22448.00,1,2014-02-26,Saudi Arabia,Lead
+10032,49,Graduation,Divorced,12571.00,1,2014-01-18,Saudi Arabia,Lead
+10505,65,Master,Together,73113.00,0,2013-12-26,Saudi Arabia,Customer
+2005,35,Graduation,Married,35765.00,1,2013-12-11,Canada,Lead
+6940,59,PhD,Single,46734.00,3,2013-10-21,Spain,Lead
+2304,62,PhD,Together,66313.00,1,2013-09-16,Saudi Arabia,Lead
+3170,68,Master,Together,68148.00,0,2013-08-31,Spain,Customer
+10466,60,Graduation,Married,44393.00,2,2013-08-22,Spain,Lead
+7325,39,PhD,Together,38197.00,1,2013-06-29,Spain,Lead
+455,79,PhD,Married,51012.00,0,2013-04-18,Spain,Lead
+7592,79,PhD,Married,51012.00,0,2013-04-18,Spain,Lead
+4547,65,Graduation,Together,13672.00,2,2013-04-17,Spain,Lead
+6825,72,Graduation,Together,41452.00,2,2013-03-06,Canada,Lead
+2961,43,Graduation,Married,42081.00,1,2013-02-26,Spain,Lead
+8700,39,Basic,Single,14906.00,0,2012-12-22,Saudi Arabia,Lead
+2278,40,2n Cycle,Single,33812.00,1,2012-11-03,USA,Lead
+10703,50,Master,Single,46098.00,2,2012-08-18,Spain,Lead
+9,50,Master,Single,46098.00,2,2012-08-18,Canada,Lead
+2804,50,Master,Single,46098.00,2,2012-08-18,India,Lead
+4915,69,2n Cycle,Married,53230.00,1,2012-08-03,Germany,Lead
+3010,36,Master,Together,88420.00,0,2014-05-02,Spain,Customer
+4279,62,2n Cycle,Single,39548.00,2,2014-03-31,Spain,Lead
+2564,72,Graduation,Together,61278.00,1,2014-01-04,Spain,Lead
+1137,61,Graduation,Single,81246.00,0,2013-12-29,Spain,Customer
+5084,50,Graduation,Widow,58330.00,1,2013-12-25,Spain,Customer
+7094,50,Graduation,Widow,58330.00,1,2013-12-25,Germany,Customer
+6327,58,Graduation,Together,65777.00,0,2013-12-19,USA,Customer
+6131,45,2n Cycle,Married,70829.00,2,2013-12-01,Spain,Lead
+5798,52,Master,Together,,0,2013-11-23,Germany,Lead
+10379,63,Master,Single,59247.00,2,2013-11-08,Spain,Lead
+606,58,Graduation,Single,25930.00,2,2013-10-10,Spain,Lead
+7801,66,Graduation,Together,54753.00,1,2013-09-12,Saudi Arabia,Lead
+2445,51,PhD,Together,28440.00,1,2013-07-07,Spain,Lead
+5346,52,2n Cycle,Married,23559.00,1,2013-07-03,Germany,Lead
+550,73,Graduation,Divorced,62335.00,1,2013-05-23,Spain,Lead
+4478,46,Graduation,Married,63777.00,2,2013-03-24,India,Lead
+2350,53,Graduation,Married,59666.00,2,2013-03-22,Canada,Customer
+1118,69,Master,Married,50965.00,1,2013-02-20,Spain,Lead
+1491,60,2n Cycle,Together,71488.00,0,2013-02-18,Canada,Lead
+4507,73,Graduation,Single,72228.00,0,2012-11-27,Spain,Customer
+7023,72,PhD,Single,46231.00,3,2012-11-26,Saudi Arabia,Lead
+6977,51,Graduation,Together,75702.00,1,2012-10-14,Spain,Customer
+4042,54,Graduation,Divorced,43300.00,1,2012-10-13,Canada,Lead
+7274,68,Graduation,Married,78618.00,0,2012-09-28,Spain,Customer
+2902,67,Graduation,Together,,2,2012-09-03,Australia,Lead
+3332,40,Graduation,Single,29760.00,1,2012-08-29,Germany,Lead
+7433,40,Graduation,Single,29760.00,1,2012-08-29,Spain,Lead
+9386,63,Graduation,Together,50127.00,1,2014-05-29,Spain,Lead
+5176,37,Graduation,Together,29604.00,1,2013-12-08,Saudi Arabia,Lead
+10323,73,Graduation,Married,49413.00,1,2013-10-25,Spain,Lead
+4682,67,Graduation,Married,51876.00,0,2013-10-15,Germany,Lead
+3083,51,Graduation,Married,45837.00,2,2013-07-26,Spain,Lead
+8015,63,PhD,Divorced,85696.00,0,2013-05-03,Spain,Customer
+1745,63,PhD,Divorced,85696.00,0,2013-05-03,Spain,Customer
+3136,63,Master,Divorced,59432.00,1,2013-04-13,Spain,Lead
+6991,74,Graduation,Divorced,43185.00,1,2013-04-10,Australia,Lead
+8132,50,PhD,Married,60631.00,2,2013-04-05,Germany,Lead
+503,40,Master,Married,20559.00,1,2013-03-12,Australia,Lead
+8148,69,Master,Together,50898.00,2,2013-01-08,Saudi Arabia,Lead
+2736,47,Graduation,Married,73807.00,1,2013-01-02,India,Lead
+8162,69,Master,Together,14661.00,0,2013-01-01,Spain,Lead
+692,71,Graduation,Together,36807.00,2,2012-12-20,India,Lead
+7706,50,2n Cycle,Together,46772.00,1,2012-11-07,Canada,Customer
+9298,78,PhD,Together,81574.00,0,2014-04-28,Saudi Arabia,Customer
+2986,49,Graduation,Married,30772.00,2,2014-03-12,Canada,Lead
+10812,47,PhD,Married,46377.00,1,2014-03-01,Saudi Arabia,Lead
+2909,51,PhD,Married,78128.00,1,2014-02-19,Germany,Customer
+6974,53,PhD,Together,83443.00,0,2013-12-31,Germany,Customer
+9140,65,2n Cycle,Together,50523.00,2,2013-12-25,USA,Lead
+4554,60,Graduation,Together,47009.00,1,2013-10-01,Spain,Lead
+7791,58,Master,Married,37054.00,2,2013-09-15,Saudi Arabia,Lead
+5455,54,PhD,Married,32011.00,1,2013-08-22,Spain,Lead
+7960,63,2n Cycle,Together,82122.00,0,2013-08-15,Spain,Customer
+3426,50,Graduation,Divorced,70300.00,1,2013-07-15,Spain,Customer
+5316,49,Master,Together,21024.00,0,2013-07-04,Spain,Lead
+1404,57,Graduation,Together,34916.00,2,2013-05-15,Saudi Arabia,Lead
+10598,58,Graduation,Together,27943.00,2,2013-04-15,Spain,Lead
+8212,54,Master,Married,39791.00,1,2013-03-28,Spain,Lead
+3233,60,PhD,Married,62745.00,1,2013-03-23,Saudi Arabia,Customer
+7892,56,Graduation,Single,18589.00,0,2013-01-02,USA,Lead
+2975,49,Graduation,Together,85606.00,1,2012-11-12,Spain,Customer
+5043,74,Basic,Married,26997.00,0,2012-11-05,Spain,Lead
+3104,64,Graduation,Single,82332.00,0,2012-09-17,Germany,Customer
+10854,55,PhD,Married,38853.00,2,2014-05-23,India,Lead
+7419,57,Master,Divorced,27071.00,1,2014-04-23,Spain,Lead
+5558,71,PhD,Single,90933.00,0,2014-03-31,Spain,Customer
+832,59,PhD,Together,65814.00,1,2014-03-02,Spain,Lead
+4964,67,PhD,Together,74250.00,0,2014-01-26,Canada,Customer
+11030,49,Master,Married,33181.00,1,2014-01-03,Spain,Lead
+4587,81,Master,Widow,45006.00,0,2013-07-18,Spain,Lead
+450,67,Master,Together,42315.00,1,2013-07-12,USA,Lead
+11031,75,PhD,Married,48699.00,2,2013-05-21,Australia,Lead
+4990,71,Graduation,Married,59111.00,0,2013-05-02,Australia,Lead
+221,70,Graduation,Married,48726.00,1,2013-04-27,Germany,Lead
+4351,70,Graduation,Divorced,37244.00,2,2013-04-27,Spain,Lead
+1357,55,Graduation,Together,74854.00,3,2013-04-08,Germany,Customer
+5667,61,PhD,Married,60896.00,1,2012-10-11,Canada,Customer
+8867,37,PhD,Married,67546.00,0,2012-08-31,Saudi Arabia,Customer
+2747,37,PhD,Married,67546.00,0,2012-08-31,Spain,Customer
+7422,38,Graduation,Single,46923.00,1,2012-08-22,Spain,Lead
+4148,53,Graduation,Married,38988.00,3,2012-08-20,Spain,Lead
+9516,54,2n Cycle,Divorced,49118.00,0,2012-08-18,Spain,Customer
+1291,47,PhD,Together,27683.00,1,2012-08-04,Spain,Lead
+1833,51,PhD,Single,39190.00,1,2014-04-26,Spain,Lead
+7270,44,Graduation,Divorced,56981.00,0,2014-01-25,Saudi Arabia,Customer
+8182,41,Graduation,Married,23228.00,1,2014-01-05,Canada,Lead
+10394,41,Graduation,Married,90000.00,0,2013-12-23,Canada,Customer
+1142,72,PhD,Married,55707.00,1,2013-12-22,Spain,Lead
+451,36,Graduation,Single,9255.00,1,2013-12-20,India,Lead
+7128,48,PhD,Single,42997.00,2,2013-12-07,Spain,Lead
+10678,66,Graduation,Together,71232.00,1,2013-11-28,Spain,Lead
+7755,71,PhD,Married,57744.00,1,2013-11-12,Spain,Lead
+4754,59,Master,Married,33585.00,1,2013-09-25,Spain,Lead
+20,60,2n Cycle,Married,46891.00,1,2013-09-01,Germany,Lead
+2246,60,2n Cycle,Married,46891.00,1,2013-09-01,Spain,Lead
+10307,69,Graduation,Married,50387.00,2,2013-08-31,Spain,Lead
+2147,56,Graduation,Together,76653.00,0,2013-08-16,Spain,Customer
+10590,69,PhD,Together,76542.00,0,2013-03-30,Spain,Customer
+6565,76,Master,Married,76995.00,1,2013-03-28,USA,Customer
+6619,47,Graduation,Married,38415.00,2,2013-01-02,Spain,Lead
+4817,69,Graduation,Divorced,22304.00,0,2012-08-04,Spain,Lead
+4508,73,Graduation,Single,75127.00,0,2014-05-22,Germany,Lead
+4843,73,Graduation,Single,75127.00,0,2014-05-22,Saudi Arabia,Lead
+9197,72,Graduation,Married,39722.00,1,2014-02-24,Spain,Lead
+6237,59,PhD,Single,7144.00,2,2013-12-07,Spain,Lead
+6515,48,Graduation,Together,39771.00,1,2013-12-06,Saudi Arabia,Lead
+5954,53,Master,Divorced,42618.00,1,2013-10-09,Spain,Lead
+7938,67,PhD,Together,51518.00,1,2013-10-03,Germany,Lead
+961,53,Graduation,Married,74716.00,1,2013-09-12,Spain,Lead
+1764,50,Graduation,Single,33955.00,1,2013-08-09,Saudi Arabia,Lead
+1916,71,Master,Married,45736.00,1,2013-07-24,Germany,Lead
+6941,54,Graduation,Single,31632.00,0,2013-07-14,Spain,Lead
+5562,51,Graduation,Married,60093.00,1,2013-06-26,Spain,Lead
+1517,56,Graduation,Single,30822.00,1,2013-06-14,Spain,Lead
+7286,57,Graduation,Together,41728.00,1,2013-05-24,Australia,Lead
+4687,67,Master,Married,80739.00,0,2013-05-23,Spain,Customer
+5631,34,Graduation,Single,49767.00,0,2013-05-02,USA,Lead
+1951,44,Basic,Married,34445.00,0,2013-01-27,Spain,Lead
+123,74,Graduation,Widow,67046.00,1,2013-01-06,Australia,Lead
+9451,60,Graduation,Married,73538.00,1,2012-11-25,Canada,Customer
+7396,59,Graduation,Married,80398.00,0,2012-11-10,Spain,Customer
+3298,69,Master,Married,52973.00,1,2012-11-08,Saudi Arabia,Customer
+6730,71,Graduation,Married,38998.00,2,2012-11-03,Spain,Lead
+9916,71,Graduation,Married,38998.00,2,2012-11-03,Saudi Arabia,Lead
+2227,67,2n Cycle,Together,26490.00,0,2012-09-22,Saudi Arabia,Lead
+946,67,2n Cycle,Together,26490.00,0,2012-09-22,Spain,Lead
+3745,37,2n Cycle,Married,23331.00,1,2012-09-04,India,Lead
+4094,64,Graduation,Married,60544.00,2,2012-08-25,Australia,Lead
+8588,64,Graduation,Married,60544.00,2,2012-08-25,Germany,Lead
+3916,54,PhD,Together,49269.00,1,2012-08-15,Spain,Lead
+9135,75,Graduation,Together,27203.00,2,2012-08-06,Spain,Lead
+1755,37,2n Cycle,Together,45204.00,1,2014-04-11,Saudi Arabia,Lead
+2875,47,Graduation,Married,67023.00,0,2014-03-04,Spain,Lead
+2008,47,Graduation,Married,77583.00,0,2014-02-10,Saudi Arabia,Customer
+10925,42,Graduation,Married,76630.00,0,2014-01-14,Saudi Arabia,Customer
+1604,65,Master,Married,47353.00,1,2013-11-13,Spain,Lead
+5389,61,Graduation,Married,48920.00,2,2013-10-20,Spain,Lead
+2878,78,PhD,Married,67472.00,1,2013-09-28,Spain,Lead
+4440,61,Master,Married,64100.00,1,2013-09-10,Saudi Arabia,Lead
+1324,37,Graduation,Married,38872.00,1,2013-05-30,India,Lead
+6262,63,Master,Single,72217.00,0,2013-04-10,Germany,Customer
+3628,38,Basic,Single,15038.00,1,2013-01-29,Spain,Lead
+3641,49,Graduation,Married,13624.00,1,2013-01-20,Spain,Lead
+322,47,Graduation,Together,42554.00,2,2013-01-12,Australia,Lead
+175,39,Graduation,Married,71952.00,1,2013-01-10,Spain,Customer
+6988,39,Graduation,Married,71952.00,1,2013-01-10,Australia,Customer
+8204,54,2n Cycle,Married,78041.00,0,2012-12-16,Germany,Customer
+7476,61,Master,Single,63972.00,1,2012-12-02,Saudi Arabia,Customer
+5221,68,Graduation,Married,52852.00,1,2012-12-01,Germany,Lead
+8970,53,PhD,Married,62010.00,1,2012-10-23,Spain,Lead
+9286,65,Master,Together,83151.00,0,2012-10-10,Spain,Lead
+5831,58,Graduation,Married,77870.00,1,2012-08-22,Spain,Customer
+1010,48,Graduation,Together,46931.00,3,2014-04-24,Spain,Lead
+11074,48,Graduation,Single,85072.00,0,2014-04-09,Saudi Arabia,Customer
+5896,38,Master,Married,73395.00,0,2014-03-18,Spain,Lead
+3515,73,Graduation,Single,62307.00,1,2014-02-17,Spain,Lead
+5324,44,PhD,Married,58293.00,1,2014-01-19,USA,Lead
+6534,51,Graduation,Together,47889.00,1,2014-01-04,Saudi Arabia,Lead
+8373,46,Basic,Together,24594.00,1,2013-12-10,Canada,Lead
+3829,46,Basic,Together,24594.00,1,2013-12-10,Saudi Arabia,Lead
+4501,60,Master,Single,69882.00,0,2013-11-10,Spain,Customer
+4179,66,Graduation,Together,24221.00,0,2013-08-20,Spain,Lead
+2292,40,Graduation,Single,22327.00,1,2013-08-02,Spain,Lead
+9239,64,Master,Married,61923.00,2,2013-07-26,USA,Lead
+8953,60,Master,Single,35791.00,3,2013-05-06,Spain,Lead
+10258,60,Master,Single,35791.00,3,2013-05-06,USA,Lead
+3520,35,Master,Single,91172.00,0,2013-03-27,Canada,Customer
+10402,58,Graduation,Married,35441.00,2,2013-02-14,Canada,Lead
+11114,55,Graduation,Together,19656.00,1,2013-02-08,Spain,Lead
+9553,38,Graduation,Married,7500.00,0,2013-01-09,India,Lead
+6055,46,Graduation,Married,71626.00,0,2012-11-01,Spain,Customer
+4786,48,Graduation,Married,75330.00,2,2012-10-04,USA,Customer
+5015,49,Master,Married,34529.00,1,2012-09-14,Spain,Lead
+8560,33,Graduation,Single,48789.00,0,2012-09-10,Canada,Lead
+3469,48,PhD,Divorced,34487.00,2,2012-09-06,Spain,Lead
+5885,52,2n Cycle,Married,35688.00,3,2012-08-22,Canada,Lead
+3310,52,2n Cycle,Married,35688.00,3,2012-08-22,Spain,Lead
+2134,73,Graduation,Single,53700.00,1,2012-08-17,Saudi Arabia,Lead
+2532,38,Master,Single,73454.00,0,2014-03-01,Spain,Customer
+2579,68,Graduation,Married,71113.00,1,2013-12-17,Spain,Lead
+3117,70,Graduation,Single,,1,2013-10-18,Australia,Lead
+5623,45,Master,Married,31535.00,1,2013-09-26,Spain,Lead
+4789,72,Graduation,Together,80812.00,0,2013-09-17,India,Customer
+9523,43,Graduation,Together,40479.00,1,2013-08-17,Spain,Lead
+5268,65,Graduation,Married,29440.00,2,2013-08-11,Germany,Lead
+1545,39,Graduation,Married,38508.00,1,2013-08-02,Spain,Lead
+2254,42,Graduation,Married,69520.00,0,2013-07-07,Australia,Customer
+2661,61,Graduation,Single,18701.00,2,2013-06-04,Saudi Arabia,Lead
+3130,61,Graduation,Single,18701.00,2,2013-06-04,Spain,Lead
+5847,56,Graduation,Divorced,69901.00,1,2013-05-29,Spain,Lead
+5863,72,Graduation,Married,47703.00,1,2013-05-29,Spain,Lead
+999,34,Graduation,Single,86037.00,0,2013-01-02,Canada,Lead
+2931,47,Graduation,Divorced,71847.00,0,2012-09-21,Spain,Customer
+1890,54,2n Cycle,Together,42033.00,2,2012-09-19,Spain,Lead
+5589,61,Graduation,Divorced,51983.00,1,2012-08-31,India,Lead
+10172,37,Graduation,Single,68655.00,0,2012-08-10,Spain,Customer
+6729,37,Graduation,Single,68655.00,0,2012-08-10,Saudi Arabia,Customer
+10492,66,Graduation,Together,38285.00,3,2014-06-24,India,Lead
+2939,55,Master,Together,79419.00,0,2014-06-22,Canada,Customer
+5948,50,Graduation,Single,57338.00,1,2014-04-29,USA,Lead
+574,61,Graduation,Married,42523.00,0,2014-04-23,Germany,Lead
+3266,61,Graduation,Married,42523.00,0,2014-04-23,Canada,Lead
+10500,41,Graduation,Married,31761.00,1,2014-04-05,Australia,Lead
+7987,56,Graduation,Married,65747.00,1,2014-03-07,Canada,Lead
+1135,65,Master,Together,17144.00,2,2014-02-15,Canada,Lead
+24,65,Master,Together,17144.00,2,2014-02-15,Saudi Arabia,Lead
+7244,74,Graduation,Single,,3,2014-01-01,Australia,Lead
+1966,60,PhD,Married,84618.00,0,2013-11-22,Australia,Customer
+7789,60,PhD,Married,84618.00,0,2013-11-22,Spain,Customer
+3336,77,PhD,Together,66375.00,1,2013-11-21,Australia,Lead
+5644,68,Graduation,Together,42213.00,1,2013-10-12,Spain,Lead
+1295,62,Graduation,Married,,1,2013-08-11,Canada,Lead
+6663,85,PhD,Single,51141.00,0,2013-07-08,Spain,Lead
+10262,45,Graduation,Married,15072.00,2,2013-05-10,India,Lead
+456,39,2n Cycle,Married,7500.00,1,2013-02-07,Spain,Lead
+3270,47,2n Cycle,Together,17117.00,1,2013-01-17,Saudi Arabia,Lead
+5748,60,Graduation,Married,59754.00,1,2012-12-01,Saudi Arabia,Lead
+8952,72,Master,Married,65569.00,1,2012-11-05,Spain,Lead
+3921,73,2n Cycle,Widow,28457.00,0,2012-10-28,Spain,Lead
+9826,53,PhD,Single,86857.00,0,2012-09-12,USA,Customer
+5830,53,PhD,Single,86857.00,0,2012-09-12,Saudi Arabia,Customer
+8310,61,Graduation,Together,68142.00,1,2012-08-29,Spain,Customer
+6382,72,Graduation,Together,48794.00,2,2014-06-26,USA,Lead
+8439,61,Graduation,Together,63404.00,2,2014-06-06,Spain,Lead
+7613,51,2n Cycle,Together,49669.00,1,2014-05-24,Spain,Lead
+48,61,Graduation,Together,55761.00,1,2014-04-24,Spain,Lead
+5046,67,Graduation,Divorced,78331.00,1,2014-01-23,Saudi Arabia,Customer
+3231,52,Graduation,Married,37971.00,1,2013-11-25,USA,Lead
+7181,48,Graduation,Married,30368.00,1,2013-11-07,Spain,Lead
+1663,47,PhD,Together,34043.00,1,2013-10-25,Spain,Lead
+5441,60,PhD,Widow,54111.00,1,2013-08-25,Spain,Lead
+8602,61,Graduation,Divorced,69932.00,1,2013-06-12,Spain,Customer
+9925,44,PhD,Together,39665.00,1,2013-05-25,Spain,Lead
+9499,71,Graduation,Married,93404.00,3,2013-05-07,Canada,Customer
+6568,41,Graduation,Married,38680.00,1,2013-03-28,USA,Lead
+3032,41,Graduation,Married,24570.00,1,2013-02-27,Spain,Lead
+5153,58,PhD,Married,77766.00,1,2013-02-22,Spain,Customer
+4127,58,PhD,Married,77766.00,1,2013-02-22,Spain,Customer
+9940,67,Graduation,Together,64961.00,1,2012-12-23,Saudi Arabia,Customer
+7527,57,Master,Divorced,23748.00,1,2012-11-21,Spain,Lead
+3406,61,Graduation,Single,45989.00,1,2012-10-22,Saudi Arabia,Lead
+9771,37,2n Cycle,Single,23331.00,1,2012-10-05,India,Lead
+6722,71,PhD,Married,70421.00,1,2014-06-28,Canada,Lead
+213,62,PhD,Single,23091.00,2,2014-05-28,Spain,Lead
+8541,35,2n Cycle,Married,24683.00,1,2014-03-08,Spain,Lead
+8475,52,PhD,Married,157243.00,1,2014-03-01,India,Customer
+8070,52,PhD,Married,54222.00,1,2014-03-01,Spain,Lead
+313,57,Graduation,Widow,73455.00,0,2013-10-28,Saudi Arabia,Customer
+9757,53,Graduation,Together,84906.00,0,2013-10-04,Spain,Customer
+2088,53,Graduation,Together,84906.00,0,2013-10-04,Germany,Customer
+2320,47,2n Cycle,Married,47025.00,1,2013-09-12,Spain,Lead
+966,59,Graduation,Married,44529.00,1,2013-07-05,Spain,Lead
+9706,51,PhD,Single,31560.00,1,2013-06-24,Canada,Lead
+3979,42,PhD,Divorced,90687.00,0,2013-05-22,Spain,Customer
+5602,36,PhD,Together,66973.00,0,2013-05-17,India,Customer
+2202,47,Graduation,Together,41154.00,1,2013-04-09,Spain,Lead
+9645,57,Graduation,Married,64590.00,0,2012-10-14,Spain,Customer
+7230,65,PhD,Divorced,50611.00,1,2012-10-04,USA,Lead
+5675,65,PhD,Divorced,50611.00,1,2012-10-04,USA,Lead
+4974,55,Graduation,Single,83273.00,3,2012-09-25,USA,Customer
+5687,45,Graduation,Divorced,81702.00,0,2012-09-23,Canada,Customer
+5871,46,Master,Together,24401.00,0,2012-08-31,Saudi Arabia,Lead
+3846,51,Graduation,Married,42557.00,1,2012-08-29,Spain,Lead
+10001,40,2n Cycle,Together,7500.00,1,2012-08-01,Spain,Lead
+2831,49,Graduation,Together,78416.00,1,2014-06-27,Spain,Customer
+868,59,Graduation,Married,44794.00,1,2014-06-08,Saudi Arabia,Lead
+7212,59,Graduation,Married,44794.00,1,2014-06-08,Australia,Lead
+1743,51,Graduation,Single,69719.00,0,2014-05-26,Spain,Lead
+2415,63,Graduation,Together,62568.00,1,2014-04-07,Spain,Lead
+7947,56,Graduation,Married,42231.00,2,2014-03-25,Spain,Lead
+2106,51,2n Cycle,Married,20130.00,0,2014-03-17,Spain,Lead
+3363,51,2n Cycle,Married,20130.00,0,2014-03-17,Spain,Lead
+8595,52,Graduation,Widow,42429.00,1,2014-02-11,Australia,Lead
+7232,52,Graduation,Widow,42429.00,1,2014-02-11,Spain,Lead
+7829,125,2n Cycle,Divorced,36640.00,1,2013-09-26,India,Lead
+9977,52,Graduation,Divorced,78901.00,1,2013-09-17,USA,Lead
+10142,49,PhD,Divorced,66476.00,1,2013-03-07,USA,Lead
+5263,48,2n Cycle,Married,31056.00,1,2013-01-22,Spain,Lead
+22,49,Graduation,Divorced,46310.00,1,2012-12-03,Spain,Lead
+528,47,Graduation,Married,65819.00,0,2012-11-29,India,Customer
+4070,56,PhD,Married,94871.00,2,2012-09-01,Canada,Customer
