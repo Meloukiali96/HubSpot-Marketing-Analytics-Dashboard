@@ -15,10 +15,15 @@ Power BI – Visualization and dashboard design
 Dashboard Features
 
 ✅ KPIs: Conversion Rate (15%), Total Deals (~2K), Total Revenue (~$1M)
+
 ✅ Sales Funnel: Leads → Deals → Wins (conversion tracking)
+
 ✅ Revenue by Country: Spain and Saudi Arabia lead contributions
+
 ✅ Campaign Engagement: Monthly clicks with seasonal peaks
+
 ✅ Customer Segments: High-income customers drive most revenue
+
 ✅ Customer Table: Key clients with total income & deal values
 
 Insights
